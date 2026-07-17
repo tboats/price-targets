@@ -44,7 +44,32 @@ def get_analyst_targets(symbol, start_date="2016-01-01"):
             df[col] = np.nan
             
     df = df[['GradeDate', 'Firm', 'currentPriceTarget', 'priorPriceTarget']].dropna(subset=['currentPriceTarget'])
-    df = df[df['currentPriceTarget'] > 0]
+    df = df[df['currentPriceTarget'] > 0].copy()
+    
+    # Fetch splits to adjust for stock splits
+    splits = ticker.splits
+    if splits is not None and not splits.empty:
+        splits.index = splits.index.tz_localize(None).normalize()
+        
+        # Apply split adjustments to price targets
+        adjusted_current = []
+        adjusted_prior = []
+        for idx, row in df.iterrows():
+            t_date = row['GradeDate']
+            curr_target = row['currentPriceTarget']
+            prior_target = row['priorPriceTarget']
+            
+            # Find splits that happened after t_date
+            future_splits = splits[splits.index > t_date]
+            adj_factor = 1.0
+            for s_date, s_ratio in future_splits.items():
+                adj_factor *= s_ratio
+                
+            adjusted_current.append(curr_target / adj_factor if not pd.isnull(curr_target) else np.nan)
+            adjusted_prior.append(prior_target / adj_factor if not pd.isnull(prior_target) else np.nan)
+            
+        df['currentPriceTarget'] = adjusted_current
+        df['priorPriceTarget'] = adjusted_prior
     
     # Filter by start date
     df = df[df['GradeDate'] >= pd.to_datetime(start_date)]

@@ -1,387 +1,387 @@
 GradeDate,Firm,currentPriceTarget,priorPriceTarget
-2016-07-29,UBS,925.0,880.0
-2016-07-29,Citigroup,910.0,900.0
-2016-07-29,CLSA,990.0,970.0
-2016-07-29,SunTrust Robinson Humphrey,900.0,850.0
-2016-07-29,JMP Securities,928.0,904.0
-2016-07-29,Deutsche Bank,1050.0,1100.0
-2016-12-21,Aegis Capital,980.0,0.0
-2017-03-20,Pivotal Research,950.0,970.0
-2017-03-27,Nomura,925.0,950.0
-2017-03-28,Barclays,1065.0,0.0
-2017-03-31,Loop Capital,800.0,0.0
-2017-04-04,BMO Capital,880.0,1005.0
-2017-07-25,B of A Securities,1100.0,1035.0
-2017-07-25,Morgan Stanley,1040.0,1050.0
-2017-08-16,SunTrust Robinson Humphrey,1100.0,0.0
-2017-09-27,Wells Fargo,1250.0,1150.0
-2017-10-11,Credit Suisse,1350.0,1100.0
-2017-10-27,Stifel,1150.0,1075.0
-2017-10-27,Citigroup,1200.0,1180.0
-2017-10-27,BMO Capital,1000.0,970.0
-2017-10-27,Canaccord Genuity,1050.0,1000.0
-2017-10-30,Citigroup,1200.0,1180.0
-2017-12-06,Evercore ISI Group,1230.0,0.0
-2018-01-26,Morgan Stanley,1215.0,1210.0
-2018-02-02,Stifel,1150.0,1150.0
-2018-02-02,Morgan Stanley,1200.0,1215.0
-2018-02-02,BMO Capital,1100.0,1080.0
-2018-02-02,B of A Securities,1360.0,1340.0
-2018-02-02,Barclays,1330.0,1260.0
-2018-04-10,Morgan Stanley,1175.0,1200.0
-2018-04-20,Credit Suisse,1350.0,1400.0
-2018-04-23,Credit Suisse,1350.0,1400.0
-2018-04-24,Morgan Stanley,1200.0,1175.0
-2018-04-24,Barclays,1250.0,1330.0
-2018-04-24,Keybanc,1230.0,1280.0
-2018-04-24,Stifel,1234.0,1150.0
-2018-06-28,Morgan Stanley,1250.0,1200.0
-2018-07-11,Nomura,1400.0,0.0
-2018-07-13,Barclays,1350.0,1250.0
-2018-07-16,Credit Suisse,1330.0,1350.0
-2018-07-24,Stifel,1456.0,1234.0
-2018-07-24,JMP Securities,1390.0,1235.0
-2018-07-24,Canaccord Genuity,1170.0,1050.0
-2018-07-24,Barclays,1415.0,1350.0
-2018-07-24,Morgan Stanley,1325.0,1250.0
-2018-07-24,B. Riley Securities,1475.0,1350.0
-2018-07-24,BMO Capital,1150.0,1100.0
-2018-07-24,Credit Suisse,1375.0,1330.0
-2018-07-24,B of A Securities,1390.0,1270.0
-2018-08-29,Morgan Stanley,1515.0,1325.0
-2018-10-18,Wedbush,1350.0,0.0
-2018-10-26,Canaccord Genuity,1140.0,1170.0
-2018-10-26,Barclays,1400.0,1415.0
-2018-10-26,B of A Securities,1350.0,1390.0
-2018-11-02,JMP Securities,1375.0,1390.0
-2018-11-14,Morgan Stanley,1500.0,1515.0
-2018-12-06,Guggenheim,1330.0,0.0
-2019-01-07,Pivotal Research,1240.0,1010.0
-2019-02-05,Barclays,1350.0,1400.0
-2019-02-05,Nomura,1310.0,1350.0
-2019-02-05,BMO Capital,1100.0,1135.0
-2019-02-05,Citigroup,1325.0,1350.0
-2019-03-05,Needham,1350.0,0.0
-2019-04-25,BMO Capital,1200.0,1100.0
-2019-04-30,Nomura,1300.0,1310.0
-2019-04-30,Stifel,1287.0,0.0
-2019-04-30,Morgan Stanley,1425.0,1500.0
-2019-05-29,China Renaissance,1270.0,0.0
-2019-05-29,Pivotal Research,1250.0,0.0
-2019-06-04,Loop Capital,1250.0,0.0
-2019-07-15,Morgan Stanley,1400.0,1425.0
-2019-07-26,Keybanc,1516.0,1430.0
-2019-07-26,Nomura,1400.0,1300.0
-2019-07-26,Citigroup,1450.0,1325.0
-2019-07-26,Canaccord Genuity,1350.0,1250.0
-2019-07-26,Morgan Stanley,1450.0,1400.0
-2019-07-26,Credit Suisse,1500.0,1400.0
-2019-07-26,Wedbush,1500.0,1350.0
-2019-07-26,Stifel,1299.0,1287.0
-2019-07-26,Mizuho,1400.0,1350.0
-2019-10-25,BMO Capital,1245.0,1225.0
-2019-10-29,BMO Capital,1250.0,1245.0
-2019-10-29,Keybanc,1546.0,1516.0
-2019-10-29,Canaccord Genuity,1450.0,1350.0
-2019-10-29,Barclays,1400.0,1385.0
-2019-12-03,Piper Sandler,1500.0,0.0
-2019-12-05,Stifel,1525.0,1325.0
-2020-01-06,Pivotal Research,1650.0,1445.0
-2020-01-10,Bernstein,1600.0,0.0
-2020-01-13,Evercore ISI Group,1600.0,1350.0
-2020-01-17,UBS,1675.0,1460.0
-2020-01-21,Morgan Stanley,1560.0,1450.0
-2020-01-24,Keybanc,1769.0,1546.0
-2020-01-27,Mizuho,1650.0,1450.0
-2020-01-30,Wedbush,1625.0,1500.0
-2020-01-31,BMO Capital,1350.0,1250.0
-2020-02-04,SunTrust Robinson Humphrey,1600.0,1500.0
-2020-02-04,Susquehanna,1800.0,1550.0
-2020-02-04,JMP Securities,1550.0,1450.0
-2020-02-04,BMO Capital,1400.0,1350.0
-2020-02-04,Baird,1600.0,1400.0
-2020-02-04,Oppenheimer,1620.0,1530.0
-2020-02-04,Nomura,1680.0,1560.0
-2020-02-04,Deutsche Bank,1700.0,1735.0
-2020-02-04,Nomura Instinet,1680.0,1560.0
-2020-02-04,Needham,1800.0,1350.0
-2020-02-04,Pivotal Research,1700.0,1650.0
-2020-02-04,Piper Sandler,1600.0,1500.0
-2020-02-04,B of A Securities,1620.0,1620.0
-2020-02-04,Raymond James,1580.0,1475.0
-2020-02-05,Argus Research,1620.0,1450.0
-2020-02-06,CFRA,1761.0,1737.0
-2020-02-07,Citigroup,1700.0,1500.0
-2020-02-25,Morgan Stanley,1650.0,1560.0
-2020-03-05,B of A Securities,1600.0,0.0
-2020-03-18,JP Morgan,1340.0,1535.0
-2020-03-26,SunTrust Robinson Humphrey,1350.0,1600.0
-2020-03-30,Morgan Stanley,1310.0,1650.0
-2020-03-30,JMP Securities,1350.0,1550.0
-2020-03-30,UBS,1530.0,1675.0
-2020-04-07,Barclays,1300.0,1635.0
-2020-04-17,Oppenheimer,1445.0,1465.0
-2020-04-17,Mizuho,1500.0,1620.0
-2020-04-20,Credit Suisse,1500.0,1700.0
-2020-04-21,Deutsche Bank,1515.0,1700.0
-2020-04-21,Raymond James,1425.0,1580.0
-2020-04-22,Wedbush,1375.0,1625.0
-2020-04-28,Pivotal Research,1575.0,1425.0
-2020-04-29,SunTrust Robinson Humphrey,1550.0,1350.0
-2020-04-29,B of A Securities,1420.0,1372.0
-2020-04-29,Mizuho,1560.0,1500.0
-2020-04-29,Nomura Instinet,1700.0,1680.0
-2020-04-29,Barclays,1400.0,1300.0
-2020-04-29,BMO Capital,1550.0,1400.0
-2020-04-29,JP Morgan,1505.0,1340.0
-2020-04-29,RBC Capital,1500.0,1350.0
-2020-04-29,MKM Partners,1500.0,1400.0
-2020-04-29,Morgan Stanley,1400.0,1310.0
-2020-04-29,Credit Suisse,1600.0,1500.0
-2020-04-29,Nomura,1700.0,1680.0
-2020-04-29,Stifel,1400.0,1300.0
-2020-05-05,Deutsche Bank,1700.0,1625.0
-2020-05-12,Citigroup,1600.0,1400.0
-2020-06-10,B of A Securities,1610.0,1420.0
-2020-06-22,B of A Securities,1610.0,1610.0
-2020-06-24,Goldman Sachs,1775.0,1425.0
-2020-07-09,Morgan Stanley,1700.0,1400.0
-2020-07-13,Mizuho,1650.0,1560.0
-2020-07-13,Jefferies,1800.0,1450.0
-2020-07-13,Barclays,1600.0,1400.0
-2020-07-16,Bernstein,1750.0,1375.0
-2020-07-16,SunTrust Robinson Humphrey,1805.0,1550.0
-2020-07-20,Credit Suisse,1850.0,1600.0
-2020-07-20,B of A Securities,1610.0,1610.0
-2020-07-21,Mizuho,1750.0,1650.0
-2020-07-27,MKM Partners,1700.0,1500.0
-2020-07-28,Deutsche Bank,1975.0,1700.0
-2020-07-29,BMO Capital,1750.0,1550.0
-2020-07-31,Morgan Stanley,1760.0,1700.0
-2020-07-31,B of A Securities,1730.0,0.0
-2020-07-31,Raymond James,1700.0,1425.0
-2020-07-31,Canaccord Genuity,1800.0,1700.0
-2020-07-31,Susquehanna,1850.0,1550.0
-2020-07-31,Baird,1675.0,1650.0
-2020-07-31,Wedbush,1700.0,1550.0
-2020-08-03,JMP Securities,1700.0,1500.0
-2020-08-25,UBS,1970.0,1600.0
-2020-09-15,Keybanc,1955.0,0.0
-2020-09-23,B of A Securities,1850.0,1850.0
-2020-09-24,Morgan Stanley,1800.0,1760.0
-2020-10-12,Deutsche Bank,2020.0,1975.0
-2020-10-16,Bernstein,1800.0,1800.0
-2020-10-20,Jefferies,1850.0,1800.0
-2020-10-23,BMO Capital,1900.0,0.0
-2020-10-30,BMO Capital,1950.0,1900.0
-2020-10-30,Wedbush,1850.0,1700.0
-2020-10-30,Stifel,1700.0,1600.0
-2020-10-30,MKM Partners,1950.0,1700.0
-2020-10-30,Barclays,1900.0,1800.0
-2020-10-30,Deutsche Bank,2250.0,2020.0
-2020-10-30,Truist Securities,2000.0,1850.0
-2020-10-30,Credit Suisse,1950.0,1850.0
-2020-10-30,Mizuho,1810.0,1750.0
-2020-10-30,Raymond James,1800.0,1700.0
-2020-10-30,Morgan Stanley,1880.0,1800.0
-2020-10-30,B of A Securities,2000.0,1850.0
-2020-10-30,Keybanc,1970.0,1955.0
-2020-10-30,Susquehanna,2000.0,1850.0
-2020-11-02,Argus Research,1850.0,1620.0
-2020-11-02,Canaccord Genuity,1900.0,1800.0
-2020-11-03,Citigroup,2000.0,1600.0
-2020-12-18,B of A Securities,2000.0,2000.0
-2020-12-31,Baird,2000.0,0.0
-2021-01-05,Morgan Stanley,2050.0,1880.0
-2021-01-11,Jefferies,2150.0,2000.0
-2021-01-19,Keybanc,2060.0,1970.0
-2021-01-21,Piper Sandler,2056.0,0.0
-2021-01-22,Credit Suisse,2000.0,1950.0
-2021-01-25,Canaccord Genuity,2250.0,2050.0
-2021-01-25,Mizuho,2100.0,1810.0
-2021-01-28,Wells Fargo,2100.0,1800.0
-2021-01-28,Wedbush,2150.0,1850.0
-2021-02-01,Truist Securities,2100.0,2000.0
-2021-02-03,Stifel,2025.0,1700.0
-2021-02-03,Bernstein,2500.0,2200.0
-2021-02-03,Pivotal Research,2750.0,2100.0
-2021-02-03,Jefferies,2400.0,2150.0
-2021-02-03,UBS,2300.0,2050.0
-2021-02-03,Barclays,2500.0,1900.0
-2021-02-03,Deutsche Bank,2600.0,2250.0
-2021-02-03,Truist Securities,2250.0,2100.0
-2021-02-03,"Monness, Crespi, Hardt",2500.0,2000.0
-2021-02-03,Cowen & Co.,2400.0,2200.0
-2021-02-03,MKM Partners,2200.0,1950.0
-2021-02-03,Needham,2500.0,1800.0
-2021-02-03,JP Morgan,2390.0,2050.0
-2021-02-03,Morgan Stanley,2200.0,2050.0
-2021-02-03,Keybanc,2353.0,2060.0
-2021-02-03,Raymond James,2440.0,1800.0
-2021-02-03,Canaccord Genuity,2400.0,2250.0
-2021-02-03,Wedbush,2470.0,2150.0
-2021-02-03,Credit Suisse,2360.0,2000.0
-2021-02-03,Evercore ISI Group,2400.0,1875.0
-2021-02-12,Citigroup,2415.0,2000.0
-2021-02-16,Loop Capital,2525.0,1895.0
-2021-03-19,B of A Securities,2440.0,2440.0
-2021-03-25,Morgan Stanley,2350.0,2200.0
-2021-03-30,Stifel,2350.0,2025.0
-2021-04-01,Wolfe Research,2450.0,0.0
-2021-04-09,Argus Research,2500.0,2400.0
-2021-04-15,TD Cowen,2600.0,2400.0
-2021-04-19,Canaccord Genuity,2600.0,2400.0
-2021-04-19,Mizuho,2600.0,2350.0
-2021-04-19,Oppenheimer,2350.0,2250.0
-2021-04-20,Keybanc,2625.0,2353.0
-2021-04-22,Jefferies,2700.0,2400.0
-2021-04-23,BMO Capital,2600.0,2350.0
-2021-04-23,Credit Suisse,2500.0,2360.0
-2021-04-26,Truist Securities,2400.0,2250.0
-2021-04-28,Stifel,2700.0,2350.0
-2021-04-28,Evercore ISI Group,2825.0,2525.0
-2021-04-28,Raymond James,2750.0,2440.0
-2021-04-28,BMO Capital,2700.0,2600.0
-2021-04-28,Susquehanna,3100.0,3000.0
-2021-04-28,Jefferies,2850.0,2700.0
-2021-04-28,Canaccord Genuity,2800.0,2600.0
-2021-04-28,Credit Suisse,2755.0,2500.0
-2021-04-28,Barclays,3000.0,2500.0
-2021-04-28,Morgan Stanley,2575.0,2350.0
-2021-04-28,Mizuho,2800.0,2600.0
-2021-04-28,Needham,2700.0,2500.0
-2021-04-28,Wells Fargo,2850.0,2650.0
-2021-04-28,Keybanc,2681.0,2625.0
-2021-04-28,JMP Securities,2850.0,2400.0
-2021-04-28,B of A Securities,2755.0,2440.0
-2021-04-28,Piper Sandler,2635.0,2250.0
-2021-04-28,Oppenheimer,2510.0,2350.0
-2021-04-29,Argus Research,2800.0,2500.0
-2021-05-03,China Renaissance,3000.0,1477.0
-2021-05-10,Citigroup,2415.0,0.0
-2021-06-02,KGI Securities,3000.0,0.0
-2021-06-11,Tigress Financial,3185.0,0.0
-2021-07-20,Jefferies,2950.0,2850.0
-2021-07-23,Credit Suisse,3350.0,2755.0
-2021-07-28,Wolfe Research,3400.0,2900.0
-2021-07-28,MKM Partners,3150.0,2500.0
-2021-07-28,Bernstein,3200.0,3000.0
-2021-07-28,JMP Securities,3100.0,2850.0
-2021-07-28,Canaccord Genuity,3100.0,2800.0
-2021-07-28,JP Morgan,3250.0,2875.0
-2021-07-28,Jefferies,3150.0,2950.0
-2021-07-28,Mizuho,3000.0,2800.0
-2021-07-28,Stifel,3000.0,2700.0
-2021-07-28,Raymond James,3200.0,2750.0
-2021-07-28,Credit Suisse,3400.0,3350.0
-2021-07-28,Keybanc,3071.0,2681.0
-2021-07-28,Morgan Stanley,3000.0,2575.0
-2021-07-28,Truist Securities,3100.0,2800.0
-2021-07-28,B of A Securities,3150.0,2755.0
-2021-07-28,Oppenheimer,3000.0,2510.0
-2021-07-28,BMO Capital,3000.0,2700.0
-2021-07-28,Susquehanna,3600.0,3100.0
-2021-07-28,Barclays,3200.0,3000.0
-2021-07-28,Needham,3200.0,2700.0
-2021-07-28,Piper Sandler,3034.0,2635.0
-2021-07-29,Argus Research,3100.0,2800.0
-2021-09-13,Goldman Sachs,3350.0,0.0
-2021-10-01,RBC Capital,3400.0,0.0
-2021-10-21,Mizuho,3100.0,3000.0
-2021-10-25,Stifel,3200.0,0.0
-2021-10-26,Baird,3175.0,0.0
-2021-10-27,Jefferies,3500.0,3325.0
-2021-10-27,Bernstein,3350.0,3250.0
-2021-10-27,Truist Securities,3400.0,3100.0
-2021-10-27,Piper Sandler,3150.0,3034.0
-2021-10-27,"Monness, Crespi, Hardt",3660.0,3500.0
-2021-10-27,Wells Fargo,3400.0,3100.0
-2021-10-27,BMO Capital,3200.0,3000.0
-2021-10-27,Goldman Sachs,3350.0,0.0
-2021-10-27,JMP Securities,3300.0,3100.0
-2021-10-27,Raymond James,3400.0,3200.0
-2021-10-27,Barclays,3300.0,3200.0
-2021-10-27,Canaccord Genuity,3350.0,3100.0
-2021-10-27,B of A Securities,3210.0,3150.0
-2021-10-27,Keybanc,3090.0,3071.0
-2021-10-27,Credit Suisse,3450.0,3400.0
-2021-10-27,Oppenheimer,3500.0,3000.0
-2021-10-27,Needham,3200.0,3200.0
-2021-10-28,Citigroup,2965.0,2825.0
-2021-11-02,Morgan Stanley,3200.0,3000.0
-2021-11-17,Goldman Sachs,3350.0,3350.0
-2021-12-03,Tigress Financial,3540.0,0.0
-2022-01-19,B of A Securities,3470.0,3210.0
-2022-01-19,Morgan Stanley,3430.0,3200.0
-2022-01-24,Goldman Sachs,3350.0,3350.0
-2022-01-25,BMO Capital,3200.0,3200.0
-2022-01-27,Bernstein,3250.0,3350.0
-2022-01-28,Credit Suisse,3400.0,3450.0
-2022-02-01,Baird,3200.0,0.0
-2022-02-01,RBC Capital,3500.0,0.0
-2022-02-01,Stifel,3500.0,0.0
-2022-02-02,Truist Securities,3600.0,3400.0
-2022-02-02,Wolfe Research,3600.0,3400.0
-2022-02-02,Wells Fargo,3600.0,0.0
-2022-02-02,Bernstein,3500.0,3250.0
-2022-02-02,MKM Partners,3375.0,3150.0
-2022-02-02,BMO Capital,3300.0,0.0
-2022-02-02,Goldman Sachs,3400.0,3350.0
-2022-02-02,Mizuho,3600.0,3350.0
-2022-02-02,Piper Sandler,3475.0,3150.0
-2022-02-02,Raymond James,3630.0,3400.0
-2022-02-02,Credit Suisse,3500.0,3400.0
-2022-02-02,B of A Securities,3510.0,3470.0
-2022-02-02,Morgan Stanley,3450.0,3430.0
-2022-02-02,JP Morgan,3450.0,3250.0
-2022-02-02,Jefferies,3600.0,3500.0
-2022-02-02,Keybanc,3400.0,3090.0
-2022-02-02,Needham,3200.0,3200.0
-2022-03-02,RBC Capital,3550.0,0.0
-2022-03-11,Deutsche Bank,3150.0,0.0
-2022-03-18,Tigress Financial,3670.0,3540.0
-2022-04-14,MKM Partners,3300.0,3375.0
-2022-04-19,Rosenblatt,4183.0,0.0
-2022-04-19,RBC Capital,3420.0,0.0
-2022-04-20,Keybanc,3075.0,3400.0
-2022-04-20,Citigroup,3500.0,2965.0
-2022-04-21,Credit Suisse,3450.0,3500.0
-2022-04-26,Baird,3000.0,0.0
-2022-04-27,JMP Securities,3300.0,3300.0
-2022-04-27,Truist Securities,3500.0,3600.0
-2022-04-27,Needham,3200.0,3200.0
-2022-04-27,Deutsche Bank,2900.0,3150.0
-2022-04-27,Citigroup,3175.0,3500.0
-2022-04-27,Canaccord Genuity,3300.0,3500.0
-2022-04-27,Raymond James,3180.0,3630.0
-2022-04-27,Jefferies,3400.0,3600.0
-2022-04-27,Morgan Stanley,3270.0,3450.0
-2022-04-27,Goldman Sachs,3000.0,0.0
-2022-04-27,Wells Fargo,3400.0,3600.0
-2022-04-27,Stifel,3100.0,3500.0
-2022-04-27,Mizuho,3500.0,3600.0
-2022-04-27,Piper Sandler,2900.0,3475.0
-2022-04-27,Wolfe Research,2900.0,3500.0
-2022-04-27,B of A Securities,2940.0,3173.0
-2022-04-27,BMO Capital,3000.0,3300.0
-2022-04-27,Credit Suisse,3400.0,3450.0
-2022-04-27,Rosenblatt,4118.0,4183.0
-2022-04-27,UBS,3600.0,3850.0
-2022-04-27,Barclays,3200.0,3300.0
-2022-05-24,Jefferies,3100.0,3400.0
-2022-06-01,Morgan Stanley,3000.0,3270.0
-2022-06-02,Piper Sandler,2775.0,2900.0
-2022-06-02,Wolfe Research,2800.0,2900.0
-2022-06-10,Goldman Sachs,3000.0,3000.0
-2022-06-16,UBS,2650.0,3600.0
-2022-06-17,B of A Securities,2636.0,2940.0
-2022-06-23,RBC Capital,2700.0,0.0
-2022-06-29,JP Morgan,2800.0,3200.0
-2022-06-30,JMP Securities,3200.0,3300.0
-2022-07-05,Barclays,3000.0,3200.0
-2022-07-07,Evercore ISI Group,3110.0,3300.0
-2022-07-13,TD Cowen,3000.0,3200.0
-2022-07-14,Citigroup,2900.0,3175.0
+2016-07-29,UBS,46.25,44.0
+2016-07-29,Citigroup,45.5,45.0
+2016-07-29,CLSA,49.5,48.5
+2016-07-29,SunTrust Robinson Humphrey,45.0,42.5
+2016-07-29,JMP Securities,46.4,45.2
+2016-07-29,Deutsche Bank,52.5,55.0
+2016-12-21,Aegis Capital,49.0,0.0
+2017-03-20,Pivotal Research,47.5,48.5
+2017-03-27,Nomura,46.25,47.5
+2017-03-28,Barclays,53.25,0.0
+2017-03-31,Loop Capital,40.0,0.0
+2017-04-04,BMO Capital,44.0,50.25
+2017-07-25,B of A Securities,55.0,51.75
+2017-07-25,Morgan Stanley,52.0,52.5
+2017-08-16,SunTrust Robinson Humphrey,55.0,0.0
+2017-09-27,Wells Fargo,62.5,57.5
+2017-10-11,Credit Suisse,67.5,55.0
+2017-10-27,Stifel,57.5,53.75
+2017-10-27,Citigroup,60.0,59.0
+2017-10-27,BMO Capital,50.0,48.5
+2017-10-27,Canaccord Genuity,52.5,50.0
+2017-10-30,Citigroup,60.0,59.0
+2017-12-06,Evercore ISI Group,61.5,0.0
+2018-01-26,Morgan Stanley,60.75,60.5
+2018-02-02,Stifel,57.5,57.5
+2018-02-02,Morgan Stanley,60.0,60.75
+2018-02-02,BMO Capital,55.0,54.0
+2018-02-02,B of A Securities,68.0,67.0
+2018-02-02,Barclays,66.5,63.0
+2018-04-10,Morgan Stanley,58.75,60.0
+2018-04-20,Credit Suisse,67.5,70.0
+2018-04-23,Credit Suisse,67.5,70.0
+2018-04-24,Morgan Stanley,60.0,58.75
+2018-04-24,Barclays,62.5,66.5
+2018-04-24,Keybanc,61.5,64.0
+2018-04-24,Stifel,61.7,57.5
+2018-06-28,Morgan Stanley,62.5,60.0
+2018-07-11,Nomura,70.0,0.0
+2018-07-13,Barclays,67.5,62.5
+2018-07-16,Credit Suisse,66.5,67.5
+2018-07-24,Stifel,72.8,61.7
+2018-07-24,JMP Securities,69.5,61.75
+2018-07-24,Canaccord Genuity,58.5,52.5
+2018-07-24,Barclays,70.75,67.5
+2018-07-24,Morgan Stanley,66.25,62.5
+2018-07-24,B. Riley Securities,73.75,67.5
+2018-07-24,BMO Capital,57.5,55.0
+2018-07-24,Credit Suisse,68.75,66.5
+2018-07-24,B of A Securities,69.5,63.5
+2018-08-29,Morgan Stanley,75.75,66.25
+2018-10-18,Wedbush,67.5,0.0
+2018-10-26,Canaccord Genuity,57.0,58.5
+2018-10-26,Barclays,70.0,70.75
+2018-10-26,B of A Securities,67.5,69.5
+2018-11-02,JMP Securities,68.75,69.5
+2018-11-14,Morgan Stanley,75.0,75.75
+2018-12-06,Guggenheim,66.5,0.0
+2019-01-07,Pivotal Research,62.0,50.5
+2019-02-05,Barclays,67.5,70.0
+2019-02-05,Nomura,65.5,67.5
+2019-02-05,BMO Capital,55.0,56.75
+2019-02-05,Citigroup,66.25,67.5
+2019-03-05,Needham,67.5,0.0
+2019-04-25,BMO Capital,60.0,55.0
+2019-04-30,Nomura,65.0,65.5
+2019-04-30,Stifel,64.35,0.0
+2019-04-30,Morgan Stanley,71.25,75.0
+2019-05-29,China Renaissance,63.5,0.0
+2019-05-29,Pivotal Research,62.5,0.0
+2019-06-04,Loop Capital,62.5,0.0
+2019-07-15,Morgan Stanley,70.0,71.25
+2019-07-26,Keybanc,75.8,71.5
+2019-07-26,Nomura,70.0,65.0
+2019-07-26,Citigroup,72.5,66.25
+2019-07-26,Canaccord Genuity,67.5,62.5
+2019-07-26,Morgan Stanley,72.5,70.0
+2019-07-26,Credit Suisse,75.0,70.0
+2019-07-26,Wedbush,75.0,67.5
+2019-07-26,Stifel,64.95,64.35
+2019-07-26,Mizuho,70.0,67.5
+2019-10-25,BMO Capital,62.25,61.25
+2019-10-29,BMO Capital,62.5,62.25
+2019-10-29,Keybanc,77.3,75.8
+2019-10-29,Canaccord Genuity,72.5,67.5
+2019-10-29,Barclays,70.0,69.25
+2019-12-03,Piper Sandler,75.0,0.0
+2019-12-05,Stifel,76.25,66.25
+2020-01-06,Pivotal Research,82.5,72.25
+2020-01-10,Bernstein,80.0,0.0
+2020-01-13,Evercore ISI Group,80.0,67.5
+2020-01-17,UBS,83.75,73.0
+2020-01-21,Morgan Stanley,78.0,72.5
+2020-01-24,Keybanc,88.45,77.3
+2020-01-27,Mizuho,82.5,72.5
+2020-01-30,Wedbush,81.25,75.0
+2020-01-31,BMO Capital,67.5,62.5
+2020-02-04,SunTrust Robinson Humphrey,80.0,75.0
+2020-02-04,Susquehanna,90.0,77.5
+2020-02-04,JMP Securities,77.5,72.5
+2020-02-04,BMO Capital,70.0,67.5
+2020-02-04,Baird,80.0,70.0
+2020-02-04,Oppenheimer,81.0,76.5
+2020-02-04,Nomura,84.0,78.0
+2020-02-04,Deutsche Bank,85.0,86.75
+2020-02-04,Nomura Instinet,84.0,78.0
+2020-02-04,Needham,90.0,67.5
+2020-02-04,Pivotal Research,85.0,82.5
+2020-02-04,Piper Sandler,80.0,75.0
+2020-02-04,B of A Securities,81.0,81.0
+2020-02-04,Raymond James,79.0,73.75
+2020-02-05,Argus Research,81.0,72.5
+2020-02-06,CFRA,88.05,86.85
+2020-02-07,Citigroup,85.0,75.0
+2020-02-25,Morgan Stanley,82.5,78.0
+2020-03-05,B of A Securities,80.0,0.0
+2020-03-18,JP Morgan,67.0,76.75
+2020-03-26,SunTrust Robinson Humphrey,67.5,80.0
+2020-03-30,Morgan Stanley,65.5,82.5
+2020-03-30,JMP Securities,67.5,77.5
+2020-03-30,UBS,76.5,83.75
+2020-04-07,Barclays,65.0,81.75
+2020-04-17,Oppenheimer,72.25,73.25
+2020-04-17,Mizuho,75.0,81.0
+2020-04-20,Credit Suisse,75.0,85.0
+2020-04-21,Deutsche Bank,75.75,85.0
+2020-04-21,Raymond James,71.25,79.0
+2020-04-22,Wedbush,68.75,81.25
+2020-04-28,Pivotal Research,78.75,71.25
+2020-04-29,SunTrust Robinson Humphrey,77.5,67.5
+2020-04-29,B of A Securities,71.0,68.6
+2020-04-29,Mizuho,78.0,75.0
+2020-04-29,Nomura Instinet,85.0,84.0
+2020-04-29,Barclays,70.0,65.0
+2020-04-29,BMO Capital,77.5,70.0
+2020-04-29,JP Morgan,75.25,67.0
+2020-04-29,RBC Capital,75.0,67.5
+2020-04-29,MKM Partners,75.0,70.0
+2020-04-29,Morgan Stanley,70.0,65.5
+2020-04-29,Credit Suisse,80.0,75.0
+2020-04-29,Nomura,85.0,84.0
+2020-04-29,Stifel,70.0,65.0
+2020-05-05,Deutsche Bank,85.0,81.25
+2020-05-12,Citigroup,80.0,70.0
+2020-06-10,B of A Securities,80.5,71.0
+2020-06-22,B of A Securities,80.5,80.5
+2020-06-24,Goldman Sachs,88.75,71.25
+2020-07-09,Morgan Stanley,85.0,70.0
+2020-07-13,Mizuho,82.5,78.0
+2020-07-13,Jefferies,90.0,72.5
+2020-07-13,Barclays,80.0,70.0
+2020-07-16,Bernstein,87.5,68.75
+2020-07-16,SunTrust Robinson Humphrey,90.25,77.5
+2020-07-20,Credit Suisse,92.5,80.0
+2020-07-20,B of A Securities,80.5,80.5
+2020-07-21,Mizuho,87.5,82.5
+2020-07-27,MKM Partners,85.0,75.0
+2020-07-28,Deutsche Bank,98.75,85.0
+2020-07-29,BMO Capital,87.5,77.5
+2020-07-31,Morgan Stanley,88.0,85.0
+2020-07-31,B of A Securities,86.5,0.0
+2020-07-31,Raymond James,85.0,71.25
+2020-07-31,Canaccord Genuity,90.0,85.0
+2020-07-31,Susquehanna,92.5,77.5
+2020-07-31,Baird,83.75,82.5
+2020-07-31,Wedbush,85.0,77.5
+2020-08-03,JMP Securities,85.0,75.0
+2020-08-25,UBS,98.5,80.0
+2020-09-15,Keybanc,97.75,0.0
+2020-09-23,B of A Securities,92.5,92.5
+2020-09-24,Morgan Stanley,90.0,88.0
+2020-10-12,Deutsche Bank,101.0,98.75
+2020-10-16,Bernstein,90.0,90.0
+2020-10-20,Jefferies,92.5,90.0
+2020-10-23,BMO Capital,95.0,0.0
+2020-10-30,BMO Capital,97.5,95.0
+2020-10-30,Wedbush,92.5,85.0
+2020-10-30,Stifel,85.0,80.0
+2020-10-30,MKM Partners,97.5,85.0
+2020-10-30,Barclays,95.0,90.0
+2020-10-30,Deutsche Bank,112.5,101.0
+2020-10-30,Truist Securities,100.0,92.5
+2020-10-30,Credit Suisse,97.5,92.5
+2020-10-30,Mizuho,90.5,87.5
+2020-10-30,Raymond James,90.0,85.0
+2020-10-30,Morgan Stanley,94.0,90.0
+2020-10-30,B of A Securities,100.0,92.5
+2020-10-30,Keybanc,98.5,97.75
+2020-10-30,Susquehanna,100.0,92.5
+2020-11-02,Argus Research,92.5,81.0
+2020-11-02,Canaccord Genuity,95.0,90.0
+2020-11-03,Citigroup,100.0,80.0
+2020-12-18,B of A Securities,100.0,100.0
+2020-12-31,Baird,100.0,0.0
+2021-01-05,Morgan Stanley,102.5,94.0
+2021-01-11,Jefferies,107.5,100.0
+2021-01-19,Keybanc,103.0,98.5
+2021-01-21,Piper Sandler,102.8,0.0
+2021-01-22,Credit Suisse,100.0,97.5
+2021-01-25,Canaccord Genuity,112.5,102.5
+2021-01-25,Mizuho,105.0,90.5
+2021-01-28,Wells Fargo,105.0,90.0
+2021-01-28,Wedbush,107.5,92.5
+2021-02-01,Truist Securities,105.0,100.0
+2021-02-03,Stifel,101.25,85.0
+2021-02-03,Bernstein,125.0,110.0
+2021-02-03,Pivotal Research,137.5,105.0
+2021-02-03,Jefferies,120.0,107.5
+2021-02-03,UBS,115.0,102.5
+2021-02-03,Barclays,125.0,95.0
+2021-02-03,Deutsche Bank,130.0,112.5
+2021-02-03,Truist Securities,112.5,105.0
+2021-02-03,"Monness, Crespi, Hardt",125.0,100.0
+2021-02-03,Cowen & Co.,120.0,110.0
+2021-02-03,MKM Partners,110.0,97.5
+2021-02-03,Needham,125.0,90.0
+2021-02-03,JP Morgan,119.5,102.5
+2021-02-03,Morgan Stanley,110.0,102.5
+2021-02-03,Keybanc,117.65,103.0
+2021-02-03,Raymond James,122.0,90.0
+2021-02-03,Canaccord Genuity,120.0,112.5
+2021-02-03,Wedbush,123.5,107.5
+2021-02-03,Credit Suisse,118.0,100.0
+2021-02-03,Evercore ISI Group,120.0,93.75
+2021-02-12,Citigroup,120.75,100.0
+2021-02-16,Loop Capital,126.25,94.75
+2021-03-19,B of A Securities,122.0,122.0
+2021-03-25,Morgan Stanley,117.5,110.0
+2021-03-30,Stifel,117.5,101.25
+2021-04-01,Wolfe Research,122.5,0.0
+2021-04-09,Argus Research,125.0,120.0
+2021-04-15,TD Cowen,130.0,120.0
+2021-04-19,Canaccord Genuity,130.0,120.0
+2021-04-19,Mizuho,130.0,117.5
+2021-04-19,Oppenheimer,117.5,112.5
+2021-04-20,Keybanc,131.25,117.65
+2021-04-22,Jefferies,135.0,120.0
+2021-04-23,BMO Capital,130.0,117.5
+2021-04-23,Credit Suisse,125.0,118.0
+2021-04-26,Truist Securities,120.0,112.5
+2021-04-28,Stifel,135.0,117.5
+2021-04-28,Evercore ISI Group,141.25,126.25
+2021-04-28,Raymond James,137.5,122.0
+2021-04-28,BMO Capital,135.0,130.0
+2021-04-28,Susquehanna,155.0,150.0
+2021-04-28,Jefferies,142.5,135.0
+2021-04-28,Canaccord Genuity,140.0,130.0
+2021-04-28,Credit Suisse,137.75,125.0
+2021-04-28,Barclays,150.0,125.0
+2021-04-28,Morgan Stanley,128.75,117.5
+2021-04-28,Mizuho,140.0,130.0
+2021-04-28,Needham,135.0,125.0
+2021-04-28,Wells Fargo,142.5,132.5
+2021-04-28,Keybanc,134.05,131.25
+2021-04-28,JMP Securities,142.5,120.0
+2021-04-28,B of A Securities,137.75,122.0
+2021-04-28,Piper Sandler,131.75,112.5
+2021-04-28,Oppenheimer,125.5,117.5
+2021-04-29,Argus Research,140.0,125.0
+2021-05-03,China Renaissance,150.0,73.85
+2021-05-10,Citigroup,120.75,0.0
+2021-06-02,KGI Securities,150.0,0.0
+2021-06-11,Tigress Financial,159.25,0.0
+2021-07-20,Jefferies,147.5,142.5
+2021-07-23,Credit Suisse,167.5,137.75
+2021-07-28,Wolfe Research,170.0,145.0
+2021-07-28,MKM Partners,157.5,125.0
+2021-07-28,Bernstein,160.0,150.0
+2021-07-28,JMP Securities,155.0,142.5
+2021-07-28,Canaccord Genuity,155.0,140.0
+2021-07-28,JP Morgan,162.5,143.75
+2021-07-28,Jefferies,157.5,147.5
+2021-07-28,Mizuho,150.0,140.0
+2021-07-28,Stifel,150.0,135.0
+2021-07-28,Raymond James,160.0,137.5
+2021-07-28,Credit Suisse,170.0,167.5
+2021-07-28,Keybanc,153.55,134.05
+2021-07-28,Morgan Stanley,150.0,128.75
+2021-07-28,Truist Securities,155.0,140.0
+2021-07-28,B of A Securities,157.5,137.75
+2021-07-28,Oppenheimer,150.0,125.5
+2021-07-28,BMO Capital,150.0,135.0
+2021-07-28,Susquehanna,180.0,155.0
+2021-07-28,Barclays,160.0,150.0
+2021-07-28,Needham,160.0,135.0
+2021-07-28,Piper Sandler,151.7,131.75
+2021-07-29,Argus Research,155.0,140.0
+2021-09-13,Goldman Sachs,167.5,0.0
+2021-10-01,RBC Capital,170.0,0.0
+2021-10-21,Mizuho,155.0,150.0
+2021-10-25,Stifel,160.0,0.0
+2021-10-26,Baird,158.75,0.0
+2021-10-27,Jefferies,175.0,166.25
+2021-10-27,Bernstein,167.5,162.5
+2021-10-27,Truist Securities,170.0,155.0
+2021-10-27,Piper Sandler,157.5,151.7
+2021-10-27,"Monness, Crespi, Hardt",183.0,175.0
+2021-10-27,Wells Fargo,170.0,155.0
+2021-10-27,BMO Capital,160.0,150.0
+2021-10-27,Goldman Sachs,167.5,0.0
+2021-10-27,JMP Securities,165.0,155.0
+2021-10-27,Raymond James,170.0,160.0
+2021-10-27,Barclays,165.0,160.0
+2021-10-27,Canaccord Genuity,167.5,155.0
+2021-10-27,B of A Securities,160.5,157.5
+2021-10-27,Keybanc,154.5,153.55
+2021-10-27,Credit Suisse,172.5,170.0
+2021-10-27,Oppenheimer,175.0,150.0
+2021-10-27,Needham,160.0,160.0
+2021-10-28,Citigroup,148.25,141.25
+2021-11-02,Morgan Stanley,160.0,150.0
+2021-11-17,Goldman Sachs,167.5,167.5
+2021-12-03,Tigress Financial,177.0,0.0
+2022-01-19,B of A Securities,173.5,160.5
+2022-01-19,Morgan Stanley,171.5,160.0
+2022-01-24,Goldman Sachs,167.5,167.5
+2022-01-25,BMO Capital,160.0,160.0
+2022-01-27,Bernstein,162.5,167.5
+2022-01-28,Credit Suisse,170.0,172.5
+2022-02-01,Baird,160.0,0.0
+2022-02-01,RBC Capital,175.0,0.0
+2022-02-01,Stifel,175.0,0.0
+2022-02-02,Truist Securities,180.0,170.0
+2022-02-02,Wolfe Research,180.0,170.0
+2022-02-02,Wells Fargo,180.0,0.0
+2022-02-02,Bernstein,175.0,162.5
+2022-02-02,MKM Partners,168.75,157.5
+2022-02-02,BMO Capital,165.0,0.0
+2022-02-02,Goldman Sachs,170.0,167.5
+2022-02-02,Mizuho,180.0,167.5
+2022-02-02,Piper Sandler,173.75,157.5
+2022-02-02,Raymond James,181.5,170.0
+2022-02-02,Credit Suisse,175.0,170.0
+2022-02-02,B of A Securities,175.5,173.5
+2022-02-02,Morgan Stanley,172.5,171.5
+2022-02-02,JP Morgan,172.5,162.5
+2022-02-02,Jefferies,180.0,175.0
+2022-02-02,Keybanc,170.0,154.5
+2022-02-02,Needham,160.0,160.0
+2022-03-02,RBC Capital,177.5,0.0
+2022-03-11,Deutsche Bank,157.5,0.0
+2022-03-18,Tigress Financial,183.5,177.0
+2022-04-14,MKM Partners,165.0,168.75
+2022-04-19,Rosenblatt,209.15,0.0
+2022-04-19,RBC Capital,171.0,0.0
+2022-04-20,Keybanc,153.75,170.0
+2022-04-20,Citigroup,175.0,148.25
+2022-04-21,Credit Suisse,172.5,175.0
+2022-04-26,Baird,150.0,0.0
+2022-04-27,JMP Securities,165.0,165.0
+2022-04-27,Truist Securities,175.0,180.0
+2022-04-27,Needham,160.0,160.0
+2022-04-27,Deutsche Bank,145.0,157.5
+2022-04-27,Citigroup,158.75,175.0
+2022-04-27,Canaccord Genuity,165.0,175.0
+2022-04-27,Raymond James,159.0,181.5
+2022-04-27,Jefferies,170.0,180.0
+2022-04-27,Morgan Stanley,163.5,172.5
+2022-04-27,Goldman Sachs,150.0,0.0
+2022-04-27,Wells Fargo,170.0,180.0
+2022-04-27,Stifel,155.0,175.0
+2022-04-27,Mizuho,175.0,180.0
+2022-04-27,Piper Sandler,145.0,173.75
+2022-04-27,Wolfe Research,145.0,175.0
+2022-04-27,B of A Securities,147.0,158.65
+2022-04-27,BMO Capital,150.0,165.0
+2022-04-27,Credit Suisse,170.0,172.5
+2022-04-27,Rosenblatt,205.9,209.15
+2022-04-27,UBS,180.0,192.5
+2022-04-27,Barclays,160.0,165.0
+2022-05-24,Jefferies,155.0,170.0
+2022-06-01,Morgan Stanley,150.0,163.5
+2022-06-02,Piper Sandler,138.75,145.0
+2022-06-02,Wolfe Research,140.0,145.0
+2022-06-10,Goldman Sachs,150.0,150.0
+2022-06-16,UBS,132.5,180.0
+2022-06-17,B of A Securities,131.8,147.0
+2022-06-23,RBC Capital,135.0,0.0
+2022-06-29,JP Morgan,140.0,160.0
+2022-06-30,JMP Securities,160.0,165.0
+2022-07-05,Barclays,150.0,160.0
+2022-07-07,Evercore ISI Group,155.5,165.0
+2022-07-13,TD Cowen,150.0,160.0
+2022-07-14,Citigroup,145.0,158.75
 2022-07-18,Morgan Stanley,150.0,3000.0
 2022-07-18,Stifel,155.0,3100.0
 2022-07-19,Credit Suisse,143.0,170.0
