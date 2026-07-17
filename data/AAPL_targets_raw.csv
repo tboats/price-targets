@@ -1,0 +1,949 @@
+GradeDate,Firm,currentPriceTarget,priorPriceTarget
+2018-07-23,BMO Capital,184.0,171.0
+2018-07-24,Morgan Stanley,232.0,214.0
+2018-08-01,BMO Capital,199.0,184.0
+2018-08-01,Deutsche Bank,175.0,165.0
+2018-08-01,Canaccord Genuity,220.0,208.0
+2018-08-02,Citigroup,230.0,200.0
+2018-08-21,B of A Securities,250.0,230.0
+2018-08-31,Nomura,210.0,190.0
+2018-09-04,Canaccord Genuity,250.0,220.0
+2018-09-05,Morgan Stanley,245.0,232.0
+2018-09-05,DA Davidson,265.0,230.0
+2018-09-13,Morgan Stanley,247.0,245.0
+2018-09-13,B of A Securities,256.0,250.0
+2018-09-27,JP Morgan,272.0,0.0
+2018-09-28,Nomura,215.0,210.0
+2018-10-19,Wedbush,310.0,0.0
+2018-10-29,Jefferies,265.0,0.0
+2018-11-02,JP Morgan,270.0,272.0
+2018-11-02,Nomura,185.0,215.0
+2018-11-02,Baird,230.0,235.0
+2018-11-02,Citigroup,240.0,265.0
+2018-11-02,B of A Securities,220.0,235.0
+2018-11-02,BMO Capital,213.0,219.0
+2018-11-08,Morgan Stanley,253.0,226.0
+2018-11-14,UBS,225.0,240.0
+2018-11-20,Goldman Sachs,182.0,209.0
+2018-11-29,Canaccord Genuity,225.0,250.0
+2018-12-04,HSBC,200.0,205.0
+2018-12-06,Rosenblatt,165.0,200.0
+2018-12-07,Morgan Stanley,236.0,253.0
+2018-12-10,Citigroup,200.0,240.0
+2018-12-14,DA Davidson,280.0,290.0
+2019-01-03,Baird,185.0,230.0
+2019-01-03,Nomura,175.0,185.0
+2019-01-03,Canaccord Genuity,190.0,225.0
+2019-01-03,Wedbush,200.0,275.0
+2019-01-03,Wells Fargo,160.0,210.0
+2019-01-03,Citigroup,170.0,200.0
+2019-01-03,Morgan Stanley,211.0,236.0
+2019-01-03,B of A Securities,196.0,220.0
+2019-01-04,Citigroup,170.0,200.0
+2019-01-30,Nomura,170.0,175.0
+2019-01-30,UBS,185.0,180.0
+2019-01-30,Canaccord Genuity,185.0,190.0
+2019-01-30,BMO Capital,38.25,0.0
+2019-01-30,Morgan Stanley,197.0,211.0
+2019-01-30,Citigroup,170.0,0.0
+2019-01-30,B of A Securities,180.0,190.0
+2019-03-14,Cowen & Co.,220.0,0.0
+2019-03-21,Citigroup,220.0,170.0
+2019-03-21,Needham,225.0,180.0
+2019-03-21,Wedbush,215.0,200.0
+2019-03-26,Morgan Stanley,220.0,197.0
+2019-03-26,Canaccord Genuity,230.0,185.0
+2019-03-26,Baird,200.0,185.0
+2019-03-26,UBS,215.0,185.0
+2019-04-10,HSBC,180.0,160.0
+2019-04-10,B of A Securities,220.0,210.0
+2019-04-11,Credit Suisse,209.0,0.0
+2019-04-24,Morgan Stanley,234.0,220.0
+2019-04-25,UBS,235.0,215.0
+2019-05-01,Wells Fargo,215.0,190.0
+2019-05-01,Morgan Stanley,240.0,234.0
+2019-05-01,Wedbush,235.0,225.0
+2019-05-01,Canaccord Genuity,245.0,230.0
+2019-05-01,B of A Securities,230.0,220.0
+2019-05-17,Nomura,175.0,180.0
+2019-05-23,UBS,225.0,235.0
+2019-05-28,Citigroup,51.25,55.0
+2019-05-30,Morgan Stanley,231.0,240.0
+2019-05-30,Morgan Stanley,231.0,240.0
+2019-06-04,Canaccord Genuity,202.0,245.0
+2019-06-06,Evercore ISI Group,205.0,0.0
+2019-06-20,Deutsche Bank,205.0,0.0
+2019-07-09,JP Morgan,239.0,233.0
+2019-07-17,Goldman Sachs,187.0,171.0
+2019-07-19,Nomura,180.0,175.0
+2019-07-22,Morgan Stanley,247.0,231.0
+2019-07-29,UBS,235.0,225.0
+2019-07-31,Deutsche Bank,210.0,205.0
+2019-07-31,B of A Securities,240.0,230.0
+2019-07-31,Citigroup,250.0,205.0
+2019-07-31,Nomura,185.0,180.0
+2019-07-31,Piper Sandler,243.0,230.0
+2019-07-31,Canaccord Genuity,240.0,202.0
+2019-07-31,Cowen & Co.,250.0,220.0
+2019-07-31,Wedbush,245.0,235.0
+2019-08-08,Barclays,192.0,0.0
+2019-09-11,B of A Securities,250.0,240.0
+2019-09-11,Barclays,207.0,192.0
+2019-09-11,Needham,250.0,225.0
+2019-09-13,Goldman Sachs,165.0,187.0
+2019-09-20,Cascend,270.0,260.0
+2019-09-30,JP Morgan,265.0,243.0
+2019-10-07,Nomura,205.0,185.0
+2019-10-09,Canaccord Genuity,260.0,240.0
+2019-10-10,Longbow Research,65.0,0.0
+2019-10-11,Wedbush,265.0,245.0
+2019-10-17,Barclays,224.0,207.0
+2019-10-21,Raymond James,280.0,250.0
+2019-10-22,Deutsche Bank,230.0,210.0
+2019-10-23,Morgan Stanley,289.0,247.0
+2019-10-24,UBS,275.0,235.0
+2019-10-25,Cascend,270.0,260.0
+2019-10-28,JP Morgan,275.0,265.0
+2019-10-28,Credit Suisse,221.0,209.0
+2019-10-28,B of A Securities,260.0,250.0
+2019-10-28,Jefferies,285.0,260.0
+2019-10-31,Cowen & Co.,290.0,250.0
+2019-10-31,Nomura,225.0,205.0
+2019-10-31,Morgan Stanley,296.0,289.0
+2019-10-31,UBS,280.0,275.0
+2019-10-31,Wells Fargo,245.0,215.0
+2019-10-31,Cascend,280.0,270.0
+2019-10-31,DA Davidson,300.0,270.0
+2019-10-31,Piper Sandler,270.0,243.0
+2019-10-31,Barclays,236.0,224.0
+2019-10-31,Wedbush,300.0,265.0
+2019-10-31,Canaccord Genuity,275.0,260.0
+2019-11-13,RBC Capital,295.0,0.0
+2019-11-14,Maxim Group,190.0,0.0
+2019-11-15,JP Morgan,290.0,280.0
+2019-11-15,Wedbush,325.0,300.0
+2019-11-15,Piper Sandler,72.5,67.5
+2019-11-26,Cascend,290.0,280.0
+2019-12-02,JP Morgan,296.0,290.0
+2019-12-09,China Renaissance,85.5,0.0
+2019-12-11,Evercore ISI Group,305.0,275.0
+2019-12-17,Cowen & Co.,325.0,290.0
+2019-12-20,Piper Sandler,76.25,72.5
+2019-12-23,Wedbush,350.0,325.0
+2020-01-03,RBC Capital,330.0,295.0
+2020-01-03,B of A Securities,330.0,290.0
+2020-01-06,Cascend,350.0,290.0
+2020-01-06,Needham,350.0,280.0
+2020-01-09,Jefferies,350.0,285.0
+2020-01-10,Argus Research,350.0,300.0
+2020-01-10,Bernstein,300.0,0.0
+2020-01-13,DA Davidson,375.0,300.0
+2020-01-13,JP Morgan,296.0,296.0
+2020-01-14,UBS,355.0,280.0
+2020-01-15,Canaccord Genuity,355.0,275.0
+2020-01-17,Nomura,280.0,225.0
+2020-01-17,Morgan Stanley,368.0,296.0
+2020-01-17,Nomura Instinet,280.0,225.0
+2020-01-23,B of A Securities,340.0,330.0
+2020-01-24,Rosenblatt,62.5,37.5
+2020-01-24,Wedbush,400.0,350.0
+2020-01-24,Cowen & Co.,350.0,325.0
+2020-01-24,"Monness, Crespi, Hardt",300.0,0.0
+2020-01-27,Deutsche Bank,290.0,280.0
+2020-01-29,Cascend,375.0,350.0
+2020-01-29,Loop Capital,325.0,265.0
+2020-01-29,Bernstein,300.0,300.0
+2020-01-29,DA Davidson,385.0,375.0
+2020-01-29,Nomura,295.0,280.0
+2020-01-29,Goldman Sachs,300.0,192.0
+2020-01-29,Baird,360.0,275.0
+2020-01-29,"Monness, Crespi, Hardt",92.5,75.0
+2020-01-29,Deutsche Bank,305.0,290.0
+2020-01-29,Citigroup,375.0,300.0
+2020-01-29,B of A Securities,350.0,340.0
+2020-01-29,Wells Fargo,315.0,245.0
+2020-01-29,Raymond James,360.0,280.0
+2020-01-29,Credit Suisse,290.0,275.0
+2020-01-29,Piper Sandler,343.0,305.0
+2020-01-29,RBC Capital,358.0,330.0
+2020-01-29,JP Morgan,350.0,300.0
+2020-01-29,Evercore ISI Group,91.25,90.0
+2020-01-29,Cowen & Co.,370.0,350.0
+2020-01-30,B of A Securities,355.0,0.0
+2020-02-18,Barclays,74.25,76.0
+2020-02-18,Canaccord Genuity,345.0,355.0
+2020-02-18,Goldman Sachs,300.0,300.0
+2020-02-18,Bernstein,300.0,300.0
+2020-02-18,DA Davidson,370.0,385.0
+2020-03-02,Cascend,350.0,375.0
+2020-03-02,Oppenheimer,80.0,0.0
+2020-03-03,Wedbush,400.0,400.0
+2020-03-04,Nomura Instinet,295.0,0.0
+2020-03-06,B of A Securities,350.0,0.0
+2020-03-06,Deutsche Bank,295.0,305.0
+2020-03-08,Wedbush,400.0,400.0
+2020-03-10,UBS,335.0,355.0
+2020-03-11,B of A Securities,320.0,350.0
+2020-03-13,Wells Fargo,315.0,0.0
+2020-03-17,Morgan Stanley,328.0,368.0
+2020-03-17,Jefferies,80.0,92.5
+2020-03-17,Goldman Sachs,265.0,300.0
+2020-03-18,Wedbush,335.0,0.0
+2020-03-18,Goldman Sachs,250.0,265.0
+2020-03-19,Canaccord Genuity,300.0,345.0
+2020-03-20,B of A Securities,300.0,320.0
+2020-03-23,Nomura,225.0,295.0
+2020-03-23,Nomura Instinet,225.0,295.0
+2020-03-24,Piper Sandler,260.0,343.0
+2020-03-25,Deutsche Bank,270.0,0.0
+2020-03-26,Bernstein,300.0,300.0
+2020-03-30,UBS,290.0,335.0
+2020-04-01,Argus Research,350.0,350.0
+2020-04-03,Credit Suisse,260.0,290.0
+2020-04-03,Morgan Stanley,298.0,328.0
+2020-04-08,JP Morgan,335.0,350.0
+2020-04-09,Nomura Instinet,240.0,225.0
+2020-04-09,Nomura,60.0,56.25
+2020-04-13,Raymond James,305.0,360.0
+2020-04-13,Bernstein,285.0,300.0
+2020-04-16,Baird,315.0,360.0
+2020-04-16,Deutsche Bank,285.0,270.0
+2020-04-17,Goldman Sachs,58.25,62.5
+2020-04-21,Nomura Instinet,240.0,240.0
+2020-04-23,Daiwa Capital,74.25,75.0
+2020-04-27,B of A Securities,310.0,300.0
+2020-05-01,Barclays,288.0,268.0
+2020-05-01,DA Davidson,88.75,92.5
+2020-05-01,UBS,325.0,290.0
+2020-05-01,Deutsche Bank,305.0,285.0
+2020-05-01,B of A Securities,320.0,310.0
+2020-05-01,Canaccord Genuity,310.0,300.0
+2020-05-01,Morgan Stanley,326.0,298.0
+2020-05-01,Nomura Instinet,250.0,240.0
+2020-05-01,JP Morgan,350.0,335.0
+2020-05-01,Cascend,325.0,350.0
+2020-05-01,Piper Sandler,77.5,75.0
+2020-05-01,Raymond James,340.0,305.0
+2020-05-01,Nomura,62.5,60.0
+2020-05-06,Daiwa Capital,320.0,297.0
+2020-05-07,Bernstein,285.0,285.0
+2020-05-12,Wedbush,350.0,335.0
+2020-05-27,Deutsche Bank,320.0,305.0
+2020-05-27,B of A Securities,340.0,320.0
+2020-06-03,Morgan Stanley,340.0,326.0
+2020-06-05,Credit Suisse,295.0,260.0
+2020-06-05,Wedbush,375.0,350.0
+2020-06-10,Deutsche Bank,350.0,320.0
+2020-06-11,B of A Securities,390.0,340.0
+2020-06-11,Wells Fargo,385.0,315.0
+2020-06-11,HSBC,73.75,0.0
+2020-06-16,Citigroup,400.0,310.0
+2020-06-17,RBC Capital,97.5,86.25
+2020-06-22,Cowen & Co.,400.0,335.0
+2020-06-23,Baird,97.5,80.0
+2020-06-23,Goldman Sachs,263.0,0.0
+2020-06-23,Bernstein,92.5,71.25
+2020-06-23,Deutsche Bank,95.0,87.5
+2020-06-23,UBS,400.0,325.0
+2020-06-23,Loop Capital,330.0,280.0
+2020-06-25,Wedbush,425.0,375.0
+2020-06-25,Barclays,326.0,288.0
+2020-07-07,Raymond James,400.0,340.0
+2020-07-07,Cascend,360.0,325.0
+2020-07-08,Deutsche Bank,400.0,380.0
+2020-07-13,Wedbush,450.0,425.0
+2020-07-13,Morgan Stanley,419.0,340.0
+2020-07-15,B of A Securities,410.0,390.0
+2020-07-15,Needham,112.5,87.5
+2020-07-16,Canaccord Genuity,444.0,310.0
+2020-07-24,Wells Fargo,420.0,400.0
+2020-07-24,Wolfe Research,78.75,0.0
+2020-07-24,Bernstein,370.0,0.0
+2020-07-28,"Monness, Crespi, Hardt",370.0,370.0
+2020-07-29,Credit Suisse,340.0,295.0
+2020-07-31,DA Davidson,480.0,355.0
+2020-07-31,Loop Capital,376.0,330.0
+2020-07-31,Bernstein,400.0,370.0
+2020-07-31,Jefferies,465.0,405.0
+2020-07-31,Barclays,400.0,326.0
+2020-07-31,Cascend,125.0,81.25
+2020-07-31,Canaccord Genuity,115.0,111.0
+2020-07-31,B of A Securities,420.0,410.0
+2020-07-31,Deutsche Bank,440.0,400.0
+2020-07-31,Credit Suisse,95.0,85.0
+2020-07-31,RBC Capital,445.0,390.0
+2020-07-31,Wedbush,475.0,450.0
+2020-07-31,Citigroup,112.5,100.0
+2020-07-31,Piper Sandler,450.0,310.0
+2020-07-31,Raymond James,110.0,100.0
+2020-07-31,Morgan Stanley,431.0,419.0
+2020-07-31,UBS,106.25,100.0
+2020-08-05,B of A Securities,470.0,420.0
+2020-08-05,Wells Fargo,121.25,112.5
+2020-08-05,Bernstein,400.0,400.0
+2020-08-10,Wedbush,515.0,475.0
+2020-08-14,Bernstein,400.0,400.0
+2020-08-24,Morgan Stanley,130.0,107.75
+2020-08-25,Wedbush,600.0,515.0
+2020-08-25,Cowen & Co.,132.5,117.5
+2020-08-31,Argus Research,150.0,112.5
+2020-08-31,"Monness, Crespi, Hardt",144.0,117.5
+2020-08-31,Wedbush,150.0,150.0
+2020-09-01,B of A Securities,140.0,117.5
+2020-09-01,JP Morgan,150.0,115.0
+2020-09-01,Deutsche Bank,140.0,480.0
+2020-09-10,Baird,133.0,109.0
+2020-09-16,Needham,140.0,112.5
+2020-09-17,Jefferies,135.0,116.25
+2020-09-21,Canaccord Genuity,125.0,112.25
+2020-09-21,Citigroup,125.0,112.5
+2020-09-22,Raymond James,120.0,110.0
+2020-10-12,RBC Capital,132.0,111.0
+2020-10-13,Piper Sandler,130.0,0.0
+2020-10-14,Credit Suisse,106.0,95.0
+2020-10-14,Jefferies,140.0,135.0
+2020-10-14,Morgan Stanley,136.0,130.0
+2020-10-21,B of A Securities,140.0,140.0
+2020-10-22,Piper Sandler,135.0,130.0
+2020-10-26,Loop Capital,115.0,135.0
+2020-10-30,Raymond James,140.0,120.0
+2020-10-30,DA Davidson,133.0,120.0
+2020-10-30,B of A Securities,135.0,140.0
+2020-12-09,Wedbush,160.0,150.0
+2020-12-14,Wells Fargo,140.0,0.0
+2020-12-15,Cascend,140.0,125.0
+2020-12-16,Morgan Stanley,144.0,136.0
+2021-01-05,Credit Suisse,120.0,106.0
+2021-01-05,Canaccord Genuity,150.0,145.0
+2021-01-06,Bernstein,120.0,100.0
+2021-01-11,Wolfe Research,90.0,80.0
+2021-01-12,Wells Fargo,155.0,140.0
+2021-01-14,Barclays,116.0,100.0
+2021-01-15,Loop Capital,155.0,131.0
+2021-01-21,Morgan Stanley,152.0,144.0
+2021-01-22,Cowen & Co.,153.0,133.0
+2021-01-25,Wedbush,175.0,160.0
+2021-01-25,Raymond James,150.0,140.0
+2021-01-25,Evercore ISI Group,160.0,145.0
+2021-01-26,Cascend,170.0,140.0
+2021-01-26,B of A Securities,150.0,135.0
+2021-01-26,RBC Capital,145.0,0.0
+2021-01-28,Piper Sandler,160.0,135.0
+2021-01-28,Loop Capital,160.0,155.0
+2021-01-28,DA Davidson,167.0,133.0
+2021-01-28,Deutsche Bank,160.0,140.0
+2021-01-28,Wells Fargo,160.0,155.0
+2021-01-28,Bernstein,132.0,120.0
+2021-01-28,Morgan Stanley,164.0,152.0
+2021-01-28,Canaccord Genuity,155.0,150.0
+2021-01-28,Barclays,138.0,116.0
+2021-01-28,B of A Securities,155.0,150.0
+2021-01-28,RBC Capital,154.0,145.0
+2021-01-28,Raymond James,160.0,150.0
+2021-01-28,Needham,170.0,140.0
+2021-01-28,Credit Suisse,140.0,120.0
+2021-03-10,Wedbush,175.0,0.0
+2021-03-16,Evercore ISI Group,175.0,163.0
+2021-03-24,B of A Securities,155.0,155.0
+2021-03-31,UBS,142.0,115.0
+2021-04-06,Morgan Stanley,156.0,164.0
+2021-04-08,UBS,142.0,142.0
+2021-04-16,Morgan Stanley,157.0,156.0
+2021-04-21,Wolfe Research,115.0,0.0
+2021-04-21,Morgan Stanley,158.0,157.0
+2021-04-27,JP Morgan,150.0,150.0
+2021-04-29,JP Morgan,165.0,150.0
+2021-04-29,Baird,160.0,155.0
+2021-04-29,UBS,155.0,142.0
+2021-04-29,Barclays,138.0,136.0
+2021-04-29,"Monness, Crespi, Hardt",180.0,170.0
+2021-04-29,Credit Suisse,150.0,140.0
+2021-04-29,Raymond James,185.0,160.0
+2021-04-29,Jefferies,175.0,160.0
+2021-04-29,Goldman Sachs,130.0,83.0
+2021-04-29,Wolfe Research,125.0,115.0
+2021-04-29,Canaccord Genuity,165.0,155.0
+2021-04-29,Wedbush,185.0,175.0
+2021-04-29,Deutsche Bank,165.0,160.0
+2021-04-29,Morgan Stanley,161.0,158.0
+2021-05-19,Barclays,134.0,138.0
+2021-05-28,New Street Research,90.0,0.0
+2021-06-24,Morgan Stanley,162.0,161.0
+2021-06-30,UBS,155.0,155.0
+2021-07-06,JP Morgan,170.0,165.0
+2021-07-14,JP Morgan,175.0,170.0
+2021-07-15,Morgan Stanley,166.0,162.0
+2021-07-20,UBS,166.0,155.0
+2021-07-22,Canaccord Genuity,175.0,165.0
+2021-07-28,Morgan Stanley,168.0,166.0
+2021-07-28,Wells Fargo,165.0,160.0
+2021-07-28,Canaccord Genuity,185.0,175.0
+2021-07-28,UBS,175.0,166.0
+2021-07-28,Piper Sandler,165.0,160.0
+2021-07-28,Deutsche Bank,175.0,165.0
+2021-07-28,Loop Capital,165.0,150.0
+2021-07-28,DA Davidson,175.0,167.0
+2021-07-28,Barclays,142.0,134.0
+2021-07-28,Wolfe Research,135.0,125.0
+2021-08-13,B of A Securities,160.0,160.0
+2021-09-01,Wolfe Research,155.0,135.0
+2021-09-08,Baird,170.0,160.0
+2021-09-09,Piper Sandler,175.0,165.0
+2021-09-22,Tigress Financial,198.0,182.0
+2021-10-11,JP Morgan,175.0,175.0
+2021-10-27,Morgan Stanley,166.0,168.0
+2021-10-28,JP Morgan,180.0,175.0
+2021-10-29,Oppenheimer,170.0,165.0
+2021-10-29,Barclays,145.0,142.0
+2021-10-29,Morgan Stanley,164.0,166.0
+2021-11-09,Tigress Financial,198.0,198.0
+2021-11-17,New Street Research,90.0,90.0
+2021-11-23,JP Morgan,180.0,180.0
+2021-12-02,Wedbush,200.0,185.0
+2021-12-03,B of A Securities,160.0,160.0
+2021-12-06,Keybanc,191.0,0.0
+2021-12-07,Morgan Stanley,200.0,164.0
+2021-12-13,JP Morgan,210.0,180.0
+2021-12-14,Evercore ISI Group,200.0,180.0
+2021-12-14,B of A Securities,210.0,160.0
+2021-12-22,Citigroup,200.0,170.0
+2022-01-05,Evercore ISI Group,200.0,200.0
+2022-01-07,Evercore ISI Group,200.0,200.0
+2022-01-14,Loop Capital,210.0,165.0
+2022-01-18,Deutsche Bank,200.0,175.0
+2022-01-19,B of A Securities,210.0,210.0
+2022-01-21,Wells Fargo,205.0,165.0
+2022-01-24,Evercore ISI Group,210.0,0.0
+2022-01-28,DA Davidson,185.0,170.0
+2022-01-28,Canaccord Genuity,200.0,185.0
+2022-01-28,B of A Securities,215.0,210.0
+2022-01-28,Jefferies,200.0,0.0
+2022-01-28,Oppenheimer,190.0,170.0
+2022-01-28,Raymond James,190.0,185.0
+2022-01-28,Deutsche Bank,210.0,200.0
+2022-01-28,Barclays,169.0,145.0
+2022-01-28,New Street Research,165.0,0.0
+2022-01-28,Morgan Stanley,210.0,200.0
+2022-01-28,UBS,185.0,175.0
+2022-01-31,Credit Suisse,168.0,150.0
+2022-02-15,Tigress Financial,210.0,198.0
+2022-03-09,Evercore ISI Group,210.0,210.0
+2022-03-11,Barclays,170.0,169.0
+2022-03-24,Evercore ISI Group,210.0,210.0
+2022-03-31,Evercore ISI Group,210.0,210.0
+2022-04-19,Rosenblatt,184.0,0.0
+2022-04-24,JP Morgan,205.0,210.0
+2022-04-29,Credit Suisse,169.0,168.0
+2022-04-29,Deutsche Bank,200.0,210.0
+2022-04-29,Morgan Stanley,195.0,210.0
+2022-04-29,Piper Sandler,195.0,200.0
+2022-04-29,JP Morgan,200.0,205.0
+2022-05-02,Rosenblatt,168.0,184.0
+2022-05-10,HSBC,160.0,0.0
+2022-05-17,Evercore ISI Group,210.0,210.0
+2022-05-19,B of A Securities,200.0,215.0
+2022-06-07,B of A Securities,200.0,200.0
+2022-06-07,"Monness, Crespi, Hardt",199.0,0.0
+2022-06-14,Deutsche Bank,175.0,200.0
+2022-06-15,Morgan Stanley,185.0,195.0
+2022-06-28,Evercore ISI Group,180.0,210.0
+2022-06-30,Tigress Financial,210.0,210.0
+2022-07-10,"Monness, Crespi, Hardt",174.0,0.0
+2022-07-12,Keybanc,173.0,191.0
+2022-07-12,B of A Securities,200.0,200.0
+2022-07-13,Citigroup,175.0,200.0
+2022-07-13,Barclays,166.0,167.0
+2022-07-19,Goldman Sachs,130.0,130.0
+2022-07-20,Morgan Stanley,180.0,185.0
+2022-07-20,Wells Fargo,185.0,205.0
+2022-07-26,B of A Securities,185.0,200.0
+2022-07-29,Jefferies,200.0,200.0
+2022-07-29,Goldman Sachs,139.0,0.0
+2022-07-29,Evercore ISI Group,185.0,180.0
+2022-07-29,Raymond James,185.0,190.0
+2022-07-29,Barclays,169.0,166.0
+2022-07-29,Citigroup,185.0,175.0
+2022-07-29,Rosenblatt,160.0,168.0
+2022-08-02,Keybanc,177.0,173.0
+2022-08-15,Bernstein,170.0,0.0
+2022-08-17,Credit Suisse,201.0,0.0
+2022-08-17,Wedbush,220.0,200.0
+2022-08-19,Keybanc,185.0,177.0
+2022-08-22,Evercore ISI Group,185.0,185.0
+2022-09-06,Bernstein,170.0,170.0
+2022-09-06,"Monness, Crespi, Hardt",174.0,174.0
+2022-09-20,Evercore ISI Group,190.0,185.0
+2022-09-29,B of A Securities,160.0,185.0
+2022-09-29,Rosenblatt,189.0,160.0
+2022-10-11,Barclays,155.0,169.0
+2022-10-13,Credit Suisse,190.0,201.0
+2022-10-17,Morgan Stanley,177.0,180.0
+2022-10-21,"Monness, Crespi, Hardt",174.0,174.0
+2022-10-28,"Monness, Crespi, Hardt",174.0,174.0
+2022-10-28,DA Davidson,167.0,185.0
+2022-10-28,Wedbush,200.0,220.0
+2022-10-28,Keybanc,177.0,185.0
+2022-10-28,Barclays,156.0,155.0
+2022-10-28,Deutsche Bank,170.0,175.0
+2022-10-28,Citigroup,175.0,185.0
+2022-10-28,Credit Suisse,184.0,190.0
+2022-11-07,Barclays,144.0,156.0
+2022-11-07,B of A Securities,154.0,160.0
+2022-11-08,Morgan Stanley,175.0,177.0
+2022-11-08,UBS,180.0,185.0
+2022-12-12,Oppenheimer,170.0,190.0
+2022-12-20,JP Morgan,190.0,200.0
+2023-01-03,Exane BNP Paribas,140.0,0.0
+2023-01-04,Wedbush,175.0,200.0
+2023-01-04,Tigress Financial,210.0,210.0
+2023-01-09,Bernstein,125.0,170.0
+2023-01-11,Barclays,133.0,144.0
+2023-01-13,Rosenblatt,165.0,189.0
+2023-01-18,Canaccord Genuity,170.0,200.0
+2023-01-18,"Monness, Crespi, Hardt",174.0,174.0
+2023-01-19,JP Morgan,180.0,190.0
+2023-01-23,Deutsche Bank,160.0,170.0
+2023-01-27,B of A Securities,153.0,154.0
+2023-02-03,"Monness, Crespi, Hardt",174.0,174.0
+2023-02-03,Bernstein,125.0,125.0
+2023-02-03,B of A Securities,158.0,153.0
+2023-02-03,DA Davidson,173.0,167.0
+2023-02-03,Rosenblatt,173.0,165.0
+2023-02-03,Wedbush,180.0,175.0
+2023-02-03,JP Morgan,175.0,180.0
+2023-02-03,Raymond James,170.0,185.0
+2023-02-03,Cowen & Co.,195.0,200.0
+2023-02-03,Piper Sandler,195.0,0.0
+2023-02-03,Barclays,145.0,133.0
+2023-02-03,New Street Research,145.0,165.0
+2023-02-03,Needham,170.0,0.0
+2023-02-06,Evercore ISI Group,190.0,0.0
+2023-03-02,Jefferies,195.0,0.0
+2023-03-06,Goldman Sachs,199.0,0.0
+2023-03-08,Wedbush,190.0,180.0
+2023-03-10,Needham,170.0,0.0
+2023-03-10,LightShed Partners,120.0,0.0
+2023-03-30,Needham,170.0,0.0
+2023-04-05,B of A Securities,168.0,158.0
+2023-04-05,Jefferies,195.0,195.0
+2023-04-13,Credit Suisse,188.0,184.0
+2023-04-13,Canaccord Genuity,180.0,170.0
+2023-04-17,Wedbush,205.0,0.0
+2023-04-19,JP Morgan,190.0,175.0
+2023-04-26,Barclays,149.0,145.0
+2023-04-26,Deutsche Bank,170.0,160.0
+2023-04-27,Bernstein,125.0,125.0
+2023-04-28,DA Davidson,173.0,173.0
+2023-04-30,"Monness, Crespi, Hardt",174.0,174.0
+2023-05-01,B of A Securities,173.0,168.0
+2023-05-02,Baird,180.0,170.0
+2023-05-04,Rosenblatt,173.0,0.0
+2023-05-04,Canaccord Genuity,185.0,0.0
+2023-05-05,Keybanc,180.0,177.0
+2023-05-05,Bernstein,175.0,125.0
+2023-05-05,Raymond James,180.0,170.0
+2023-05-05,Rosenblatt,198.0,173.0
+2023-05-05,Oppenheimer,195.0,0.0
+2023-05-05,"Monness, Crespi, Hardt",188.0,0.0
+2023-05-05,B of A Securities,176.0,173.0
+2023-05-05,Needham,195.0,170.0
+2023-05-05,Piper Sandler,180.0,195.0
+2023-05-05,Deutsche Bank,180.0,170.0
+2023-05-05,Atlantic Equities,200.0,180.0
+2023-05-05,Morgan Stanley,185.0,180.0
+2023-05-12,Bernstein,175.0,175.0
+2023-05-22,Loop Capital,180.0,0.0
+2023-05-22,Bernstein,175.0,175.0
+2023-05-31,Wedbush,205.0,0.0
+2023-06-02,Morgan Stanley,190.0,185.0
+2023-06-02,Jefferies,210.0,195.0
+2023-06-05,Evercore ISI Group,210.0,190.0
+2023-06-05,B of A Securities,190.0,176.0
+2023-06-05,Wedbush,205.0,0.0
+2023-06-06,Wedbush,205.0,0.0
+2023-06-06,Credit Suisse,200.0,188.0
+2023-06-06,"Monness, Crespi, Hardt",188.0,188.0
+2023-06-06,Needham,195.0,0.0
+2023-06-06,Wells Fargo,210.0,185.0
+2023-06-06,DA Davidson,185.0,193.0
+2023-06-07,Wedbush,220.0,205.0
+2023-06-13,UBS,190.0,180.0
+2023-06-14,Bernstein,175.0,175.0
+2023-06-23,Tigress Financial,225.0,210.0
+2023-06-30,Citigroup,240.0,0.0
+2023-07-05,UBS,190.0,190.0
+2023-07-11,Keybanc,200.0,180.0
+2023-07-17,Morgan Stanley,220.0,190.0
+2023-07-19,B of A Securities,210.0,190.0
+2023-07-20,Citigroup,240.0,240.0
+2023-07-20,Credit Suisse,220.0,200.0
+2023-07-24,Wells Fargo,225.0,210.0
+2023-07-24,Deutsche Bank,210.0,180.0
+2023-07-25,Morgan Stanley,220.0,220.0
+2023-07-27,Bernstein,195.0,175.0
+2023-07-31,Piper Sandler,220.0,180.0
+2023-08-01,Baird,204.0,180.0
+2023-08-01,TD Cowen,220.0,195.0
+2023-08-02,JP Morgan,235.0,190.0
+2023-08-04,Needham,195.0,0.0
+2023-08-04,Citigroup,240.0,240.0
+2023-08-04,Barclays,167.0,149.0
+2023-08-04,Rosenblatt,198.0,0.0
+2023-08-04,Raymond James,200.0,180.0
+2023-08-04,Morgan Stanley,215.0,220.0
+2023-08-04,Canaccord Genuity,205.0,185.0
+2023-08-17,Wedbush,230.0,0.0
+2023-09-07,Wedbush,230.0,0.0
+2023-09-07,Needham,195.0,0.0
+2023-09-08,JP Morgan,230.0,235.0
+2023-09-12,Wedbush,230.0,0.0
+2023-09-12,Rosenblatt,198.0,0.0
+2023-09-13,Wedbush,240.0,230.0
+2023-09-13,Needham,195.0,0.0
+2023-09-13,B of A Securities,208.0,210.0
+2023-09-14,Keybanc,200.0,0.0
+2023-09-15,Credit Suisse,220.0,220.0
+2023-09-18,Wedbush,240.0,0.0
+2023-09-19,Barclays,167.0,0.0
+2023-09-19,Evercore ISI Group,210.0,210.0
+2023-09-22,B of A Securities,208.0,208.0
+2023-09-25,Morgan Stanley,215.0,215.0
+2023-09-26,B of A Securities,208.0,208.0
+2023-09-27,UBS,190.0,190.0
+2023-09-28,Evercore ISI Group,210.0,210.0
+2023-10-09,Barclays,167.0,167.0
+2023-10-09,Bernstein,195.0,195.0
+2023-10-16,Morgan Stanley,210.0,215.0
+2023-10-24,B of A Securities,173.0,173.0
+2023-10-30,Barclays,166.0,167.0
+2023-10-30,Oppenheimer,200.0,220.0
+2023-10-31,Needham,195.0,0.0
+2023-11-01,Wedbush,240.0,0.0
+2023-11-03,Morgan Stanley,210.0,210.0
+2023-11-03,Wedbush,240.0,0.0
+2023-11-03,Rosenblatt,189.0,198.0
+2023-11-16,Tigress Financial,240.0,225.0
+2023-11-24,Wedbush,240.0,240.0
+2023-12-08,Morgan Stanley,220.0,210.0
+2023-12-11,Wedbush,250.0,240.0
+2023-12-20,Wedbush,250.0,0.0
+2024-01-02,Barclays,160.0,161.0
+2024-01-03,DA Davidson,166.0,0.0
+2024-01-04,Piper Sandler,205.0,220.0
+2024-01-10,Redburn Atlantic,200.0,0.0
+2024-01-18,B of A Securities,225.0,208.0
+2024-01-30,Wedbush,250.0,0.0
+2024-01-31,Wedbush,250.0,0.0
+2024-01-31,Rosenblatt,189.0,0.0
+2024-02-02,Citigroup,225.0,230.0
+2024-02-02,Oppenheimer,200.0,0.0
+2024-02-02,JP Morgan,215.0,225.0
+2024-02-02,Barclays,158.0,160.0
+2024-02-02,Needham,220.0,0.0
+2024-02-02,Wedbush,250.0,0.0
+2024-02-05,Loop Capital,185.0,180.0
+2024-02-07,DA Davidson,200.0,166.0
+2024-02-12,Wedbush,250.0,0.0
+2024-02-28,Wedbush,250.0,0.0
+2024-03-05,Rosenblatt,189.0,0.0
+2024-03-08,Citigroup,220.0,225.0
+2024-03-12,B of A Securities,225.0,0.0
+2024-03-21,Wedbush,250.0,0.0
+2024-03-21,Citigroup,220.0,220.0
+2024-03-22,Morgan Stanley,220.0,220.0
+2024-03-25,UBS,190.0,190.0
+2024-03-28,DZ Bank,180.0,0.0
+2024-04-01,Loop Capital,170.0,185.0
+2024-04-09,Wedbush,250.0,0.0
+2024-04-11,JP Morgan,210.0,215.0
+2024-04-16,Needham,220.0,0.0
+2024-04-17,Maxim Group,178.0,0.0
+2024-04-22,Morgan Stanley,210.0,220.0
+2024-04-29,Bernstein,195.0,0.0
+2024-04-29,Citigroup,210.0,220.0
+2024-05-03,Needham,220.0,220.0
+2024-05-03,Rosenblatt,196.0,189.0
+2024-05-03,Wedbush,250.0,250.0
+2024-05-03,Barclays,164.0,158.0
+2024-05-03,JP Morgan,225.0,210.0
+2024-05-03,B of A Securities,230.0,225.0
+2024-05-03,Morgan Stanley,216.0,210.0
+2024-05-03,Itau BBA,188.0,0.0
+2024-05-03,Canaccord Genuity,215.0,200.0
+2024-05-13,Wedbush,250.0,250.0
+2024-05-24,Wedbush,275.0,250.0
+2024-05-29,B of A Securities,230.0,230.0
+2024-05-30,Tigress Financial,245.0,240.0
+2024-06-04,Morgan Stanley,216.0,216.0
+2024-06-11,Needham,220.0,220.0
+2024-06-11,JP Morgan,225.0,225.0
+2024-06-11,Rosenblatt,196.0,196.0
+2024-06-11,Morgan Stanley,216.0,216.0
+2024-06-11,UBS,190.0,190.0
+2024-06-11,Barclays,164.0,164.0
+2024-06-11,DA Davidson,230.0,200.0
+2024-06-12,B of A Securities,230.0,230.0
+2024-06-18,JP Morgan,245.0,225.0
+2024-06-21,Bernstein,240.0,195.0
+2024-06-24,Melius Research,260.0,227.0
+2024-06-25,Evercore ISI Group,250.0,220.0
+2024-06-26,Rosenblatt,260.0,196.0
+2024-06-26,B of A Securities,230.0,230.0
+2024-06-28,Oppenheimer,250.0,200.0
+2024-07-01,Needham,220.0,220.0
+2024-07-01,UBS,190.0,190.0
+2024-07-09,B of A Securities,230.0,230.0
+2024-07-10,Needham,260.0,220.0
+2024-07-11,B of A Securities,256.0,230.0
+2024-07-11,Wedbush,275.0,275.0
+2024-07-15,Morgan Stanley,273.0,216.0
+2024-07-15,Loop Capital,300.0,170.0
+2024-07-17,CFRA,260.0,240.0
+2024-07-18,Goldman Sachs,265.0,238.0
+2024-07-24,JP Morgan,265.0,245.0
+2024-07-24,Barclays,187.0,164.0
+2024-07-25,Baird,240.0,200.0
+2024-07-26,Raymond James,250.0,200.0
+2024-07-29,TD Cowen,250.0,220.0
+2024-08-02,Barclays,186.0,187.0
+2024-08-02,Citigroup,255.0,210.0
+2024-08-02,Goldman Sachs,275.0,265.0
+2024-08-02,Wedbush,285.0,275.0
+2024-08-02,Rosenblatt,261.0,260.0
+2024-08-02,Maxim Group,203.0,195.0
+2024-08-05,Needham,260.0,260.0
+2024-08-06,Morgan Stanley,273.0,273.0
+2024-08-19,MoffettNathanson,211.0,0.0
+2024-08-27,B of A Securities,256.0,256.0
+2024-08-27,Evercore ISI Group,250.0,250.0
+2024-08-27,Morgan Stanley,273.0,273.0
+2024-08-27,Citigroup,255.0,255.0
+2024-08-27,Melius Research,265.0,265.0
+2024-08-28,Tigress Financial,295.0,245.0
+2024-09-04,UBS,236.0,190.0
+2024-09-05,B of A Securities,256.0,256.0
+2024-09-09,Wedbush,285.0,285.0
+2024-09-10,JP Morgan,265.0,265.0
+2024-09-10,Oppenheimer,250.0,250.0
+2024-09-10,B of A Securities,256.0,256.0
+2024-09-10,Wedbush,300.0,285.0
+2024-09-10,Rosenblatt,261.0,261.0
+2024-09-10,Morgan Stanley,273.0,273.0
+2024-09-10,Needham,260.0,260.0
+2024-09-10,Maxim Group,203.0,203.0
+2024-09-16,Evercore ISI Group,250.0,250.0
+2024-09-19,Needham,260.0,260.0
+2024-09-24,Needham,260.0,260.0
+2024-09-25,New Street Research,225.0,225.0
+2024-10-01,Barclays,186.0,186.0
+2024-10-03,B of A Securities,256.0,256.0
+2024-10-21,CFRA,260.0,260.0
+2024-10-25,Keybanc,200.0,0.0
+2024-11-01,Barclays,184.0,186.0
+2024-11-01,Rosenblatt,262.0,261.0
+2024-11-01,Maxim Group,215.0,203.0
+2024-11-01,DA Davidson,260.0,260.0
+2024-11-01,HSBC,190.0,190.0
+2024-11-01,Needham,260.0,260.0
+2024-11-01,Oppenheimer,250.0,250.0
+2024-11-04,Loop Capital,275.0,300.0
+2024-11-15,Jefferies,211.84,211.84
+2024-11-20,Susquehanna,210.0,230.0
+2024-11-25,Morgan Stanley,273.0,273.0
+2024-11-29,Wedbush,300.0,300.0
+2024-12-02,Jefferies,211.84,211.84
+2024-12-03,HSBC,160.0,0.0
+2024-12-10,Needham,260.0,260.0
+2024-12-13,Morgan Stanley,273.0,273.0
+2024-12-18,Daiwa Capital,275.0,255.0
+2024-12-26,Wedbush,325.0,300.0
+2025-01-03,Bernstein,260.0,240.0
+2025-01-03,B of A Securities,256.0,256.0
+2025-01-07,MoffettNathanson,188.0,188.0
+2025-01-21,Needham,260.0,260.0
+2025-01-21,JP Morgan,260.0,265.0
+2025-01-21,Loop Capital,230.0,275.0
+2025-01-21,Jefferies,200.75,211.84
+2025-01-22,Barclays,183.0,184.0
+2025-01-23,Goldman Sachs,280.0,286.0
+2025-01-23,Wedbush,325.0,325.0
+2025-01-24,B of A Securities,253.0,256.0
+2025-01-27,Rosenblatt,262.0,262.0
+2025-01-28,TD Cowen,250.0,250.0
+2025-01-30,DA Davidson,290.0,260.0
+2025-01-31,Citigroup,275.0,255.0
+2025-01-31,Morgan Stanley,275.0,273.0
+2025-01-31,Needham,260.0,260.0
+2025-01-31,Evercore ISI Group,260.0,250.0
+2025-01-31,Goldman Sachs,294.0,280.0
+2025-01-31,Barclays,197.0,183.0
+2025-01-31,B of A Securities,265.0,253.0
+2025-01-31,TD Cowen,290.0,250.0
+2025-01-31,Jefferies,202.33,200.75
+2025-01-31,JP Morgan,270.0,260.0
+2025-02-19,Goldman Sachs,294.0,294.0
+2025-03-03,Wedbush,325.0,325.0
+2025-03-12,Morgan Stanley,252.0,275.0
+2025-03-14,Wedbush,325.0,325.0
+2025-03-18,Evercore ISI Group,275.0,260.0
+2025-03-31,Goldman Sachs,294.0,294.0
+2025-04-03,Jefferies,202.33,202.33
+2025-04-03,Rosenblatt,263.0,263.0
+2025-04-03,Tigress Financial,300.0,295.0
+2025-04-03,B of A Securities,250.0,265.0
+2025-04-04,Needham,260.0,260.0
+2025-04-07,Wedbush,250.0,325.0
+2025-04-08,Goldman Sachs,242.0,294.0
+2025-04-08,Morgan Stanley,220.0,252.0
+2025-04-08,Keybanc,170.0,200.0
+2025-04-09,Jefferies,167.88,202.33
+2025-04-14,Needham,225.0,225.0
+2025-04-14,JP Morgan,245.0,270.0
+2025-04-14,DA Davidson,230.0,290.0
+2025-04-14,Citigroup,245.0,275.0
+2025-04-14,Goldman Sachs,259.0,242.0
+2025-04-23,UBS,210.0,236.0
+2025-04-23,Goldman Sachs,256.0,259.0
+2025-04-24,B of A Securities,240.0,250.0
+2025-04-29,Morgan Stanley,235.0,220.0
+2025-04-30,Barclays,173.0,197.0
+2025-04-30,Loop Capital,215.0,230.0
+2025-04-30,Raymond James,230.0,250.0
+2025-05-01,Rosenblatt,263.0,263.0
+2025-05-01,B of A Securities,250.0,250.0
+2025-05-02,Needham,225.0,225.0
+2025-05-02,DA Davidson,250.0,230.0
+2025-05-02,Jefferies,170.62,167.88
+2025-05-02,Rosenblatt,217.0,263.0
+2025-05-02,Wedbush,270.0,250.0
+2025-05-02,Baird,230.0,260.0
+2025-05-02,B of A Securities,235.0,240.0
+2025-05-03,JP Morgan,240.0,245.0
+2025-05-16,Wedbush,270.0,270.0
+2025-06-04,Needham,225.0,225.0
+2025-06-05,Morgan Stanley,235.0,235.0
+2025-06-10,B of A Securities,235.0,235.0
+2025-06-10,Wedbush,270.0,270.0
+2025-06-10,Morgan Stanley,235.0,235.0
+2025-06-26,JP Morgan,230.0,240.0
+2025-07-01,Jefferies,188.32,170.62
+2025-07-09,Wedbush,270.0,270.0
+2025-07-17,JP Morgan,250.0,230.0
+2025-07-29,Rosenblatt,217.0,217.0
+2025-07-30,Wedbush,270.0,270.0
+2025-08-01,Morgan Stanley,240.0,235.0
+2025-08-01,DA Davidson,250.0,250.0
+2025-08-01,Citigroup,245.0,240.0
+2025-08-01,JP Morgan,255.0,250.0
+2025-08-01,UBS,220.0,210.0
+2025-08-01,B of A Securities,240.0,235.0
+2025-08-01,Raymond James,240.0,230.0
+2025-08-01,Rosenblatt,223.0,217.0
+2025-08-01,Wedbush,270.0,270.0
+2025-08-01,Barclays,180.0,173.0
+2025-08-07,Wells Fargo,245.0,245.0
+2025-08-07,B of A Securities,250.0,240.0
+2025-08-07,Wedbush,270.0,270.0
+2025-08-08,Melius Research,260.0,246.0
+2025-08-08,Melius Research,260.0,240.0
+2025-08-13,Evercore ISI Group,250.0,0.0
+2025-08-14,Melius Research,260.0,240.0
+2025-08-21,Loop Capital,226.0,230.0
+2025-08-25,B of A Securities,250.0,250.0
+2025-08-27,Goldman Sachs,266.0,266.0
+2025-09-03,Wedbush,270.0,270.0
+2025-09-03,B of A Securities,260.0,250.0
+2025-09-04,MoffettNathanson,225.0,0.0
+2025-09-08,Jefferies,205.82,190.67
+2025-09-09,Wedbush,270.0,270.0
+2025-09-10,Evercore ISI Group,260.0,250.0
+2025-09-10,Rosenblatt,241.0,223.0
+2025-09-10,B of A Securities,270.0,260.0
+2025-09-10,Melius Research,290.0,260.0
+2025-09-11,Phillip Securities,200.0,0.0
+2025-09-11,DA Davidson,250.0,250.0
+2025-09-16,Bernstein,290.0,0.0
+2025-09-17,Tigress Financial,305.0,300.0
+2025-09-22,Wedbush,310.0,270.0
+2025-09-26,Evercore ISI Group,290.0,260.0
+2025-10-01,Seaport Global,310.0,0.0
+2025-10-02,Morgan Stanley,298.0,240.0
+2025-10-03,Jefferies,205.16,205.82
+2025-10-20,Loop Capital,315.0,226.0
+2025-10-21,Wells Fargo,290.0,245.0
+2025-10-21,Goldman Sachs,279.0,266.0
+2025-10-27,JP Morgan,290.0,280.0
+2025-10-28,Baird,280.0,230.0
+2025-10-29,B of A Securities,320.0,270.0
+2025-10-31,Barclays,230.0,180.0
+2025-10-31,Citigroup,315.0,245.0
+2025-10-31,Jefferies,246.99,203.07
+2025-10-31,JP Morgan,305.0,290.0
+2025-10-31,Goldman Sachs,320.0,279.0
+2025-10-31,TD Cowen,325.0,275.0
+2025-10-31,Rosenblatt,250.0,241.0
+2025-10-31,UBS,280.0,220.0
+2025-10-31,DA Davidson,270.0,250.0
+2025-10-31,Evercore ISI Group,300.0,290.0
+2025-10-31,Morgan Stanley,305.0,298.0
+2025-10-31,Wells Fargo,300.0,290.0
+2025-10-31,Argus Research,325.0,280.0
+2025-10-31,B of A Securities,325.0,320.0
+2025-11-04,Rosenblatt,250.0,250.0
+2025-12-02,Loop Capital,325.0,315.0
+2025-12-05,CLSA,330.0,265.0
+2025-12-08,Evercore ISI Group,325.0,300.0
+2025-12-08,Wedbush,350.0,320.0
+2025-12-09,Citigroup,330.0,315.0
+2025-12-17,Morgan Stanley,315.0,305.0
+2026-01-09,Evercore ISI Group,330.0,325.0
+2026-01-12,Wedbush,350.0,350.0
+2026-01-13,Wedbush,350.0,350.0
+2026-01-20,Evercore ISI Group,330.0,330.0
+2026-01-20,Citigroup,315.0,330.0
+2026-01-26,Jefferies,276.47,283.36
+2026-01-26,JP Morgan,315.0,305.0
+2026-01-30,Jefferies,286.54,276.47
+2026-01-30,Maxim Group,300.0,0.0
+2026-01-30,JP Morgan,325.0,315.0
+2026-01-30,Barclays,239.0,230.0
+2026-01-30,Wedbush,350.0,350.0
+2026-01-30,Rosenblatt,267.0,250.0
+2026-01-30,TD Cowen,325.0,325.0
+2026-01-30,DA Davidson,270.0,270.0
+2026-02-17,Wedbush,350.0,350.0
+2026-03-03,Barclays,248.0,239.0
+2026-03-05,Rosenblatt,268.0,267.0
+2026-03-05,Wedbush,350.0,350.0
+2026-03-23,B of A Securities,320.0,325.0
+2026-03-23,Morgan Stanley,315.0,315.0
+2026-03-27,Wedbush,350.0,350.0
+2026-03-31,Wedbush,350.0,350.0
+2026-04-14,B of A Securities,325.0,320.0
+2026-04-17,BNP Paribas,300.0,0.0
+2026-04-21,Rosenblatt,268.0,268.0
+2026-04-21,Wedbush,350.0,350.0
+2026-04-28,UBS,287.0,280.0
+2026-05-01,Morgan Stanley,330.0,315.0
+2026-05-01,Rosenblatt,276.0,268.0
+2026-05-01,DA Davidson,270.0,270.0
+2026-05-01,Wells Fargo,310.0,300.0
+2026-05-01,Barclays,253.0,248.0
+2026-05-01,Wedbush,350.0,350.0
+2026-05-01,TD Cowen,335.0,325.0
+2026-05-01,Maxim Group,310.0,300.0
+2026-05-01,UBS,296.0,287.0
+2026-05-08,Wedbush,400.0,350.0
+2026-05-14,Evercore ISI Group,365.0,330.0
+2026-05-14,Tigress Financial,375.0,305.0
+2026-05-26,B of A Securities,380.0,330.0
+2026-06-05,Wedbush,400.0,400.0
+2026-06-09,Morgan Stanley,360.0,330.0
+2026-06-09,Rosenblatt,276.0,276.0
+2026-06-09,Maxim Group,350.0,310.0
+2026-06-09,TD Cowen,350.0,335.0
+2026-06-18,B of A Securities,380.0,380.0
+2026-06-22,KGI Securities,315.0,0.0
+2026-06-25,Evercore ISI Group,365.0,365.0
+2026-07-13,Citigroup,365.0,315.0
+2026-07-14,Keybanc,250.0,0.0

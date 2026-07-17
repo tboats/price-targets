@@ -1,0 +1,333 @@
+GradeDate,Firm,currentPriceTarget,priorPriceTarget
+2016-03-15,Jefferies,105.0,110.0
+2016-05-02,Credit Suisse,91.0,94.0
+2016-05-02,Leerink Swann,101.0,96.0
+2016-07-14,Jefferies,105.0,100.0
+2016-09-08,JP Morgan,95.0,92.0
+2016-09-27,Goldman Sachs,95.0,89.0
+2016-11-25,BMO Capital,64.0,0.0
+2016-12-16,Morgan Stanley,82.0,73.0
+2017-07-17,Deutsche Bank,91.0,90.0
+2017-07-17,Jefferies,96.0,95.0
+2017-09-06,BMO Capital,71.0,73.0
+2017-09-15,Jefferies,96.0,89.0
+2017-10-10,BMO Capital,73.0,71.0
+2017-10-13,Barclays,98.0,90.0
+2017-10-23,Leerink Swann,93.0,92.0
+2017-11-21,Morgan Stanley,90.0,86.0
+2018-02-01,BMO Capital,74.0,73.0
+2018-02-01,B of A Securities,86.0,88.0
+2018-04-25,BMO Capital,78.0,79.0
+2018-06-08,Cantor Fitzgerald,100.0,0.0
+2018-06-21,Credit Suisse,84.0,82.0
+2018-07-17,B of A Securities,90.0,86.0
+2018-07-19,BMO Capital,80.0,78.0
+2018-07-25,B of A Securities,94.0,90.0
+2018-07-25,BMO Capital,90.0,80.0
+2018-07-25,Cantor Fitzgerald,110.0,100.0
+2018-07-25,Credit Suisse,86.0,84.0
+2018-07-31,Morgan Stanley,102.0,93.0
+2018-09-07,Barclays,107.0,98.0
+2018-09-18,Barclays,112.0,107.0
+2018-10-03,BMO Capital,107.0,90.0
+2018-10-05,BMO Capital,130.0,107.0
+2018-10-12,Barclays,120.0,112.0
+2018-10-24,Wolfe Research,119.0,0.0
+2019-05-01,BMO Capital,133.0,130.0
+2019-05-28,Goldman Sachs,135.0,0.0
+2019-09-10,B of A Securities,120.0,118.0
+2019-10-17,UBS,133.0,134.0
+2019-12-18,Morgan Stanley,150.0,116.0
+2019-12-18,JP Morgan,150.0,140.0
+2019-12-30,Argus Research,165.0,145.0
+2020-02-06,Mizuho,148.0,0.0
+2020-03-11,Goldman Sachs,168.0,0.0
+2020-04-02,Morgan Stanley,148.0,150.0
+2020-04-15,Cowen & Co.,160.0,145.0
+2020-04-21,UBS,158.0,157.0
+2020-04-24,CFRA,167.0,146.0
+2020-06-17,JP Morgan,190.0,175.0
+2020-06-19,B of A Securities,180.0,165.0
+2020-08-14,Morgan Stanley,157.0,148.0
+2020-09-03,Morgan Stanley,176.0,0.0
+2020-09-29,Berenberg,144.0,0.0
+2020-10-16,JP Morgan,200.0,190.0
+2020-10-23,Truist Securities,180.0,0.0
+2020-10-28,Morgan Stanley,170.0,176.0
+2020-11-10,Bernstein,150.0,0.0
+2020-11-17,Mizuho,156.0,164.0
+2020-12-10,Wolfe Research,183.0,147.0
+2021-01-19,Mizuho,222.0,164.0
+2021-01-22,B of A Securities,225.0,195.0
+2021-02-01,Mizuho,228.0,222.0
+2021-02-01,Truist Securities,215.0,200.0
+2021-02-04,Morgan Stanley,217.0,190.0
+2021-02-12,Cowen & Co.,235.0,195.0
+2021-03-15,Truist Securities,225.0,215.0
+2021-04-28,Mizuho,216.0,228.0
+2021-04-28,Barclays,227.0,232.0
+2021-04-28,Morgan Stanley,207.0,217.0
+2021-06-14,Goldman Sachs,270.0,252.0
+2021-06-15,JP Morgan,260.0,240.0
+2021-06-24,Cowen & Co.,250.0,235.0
+2021-06-24,Cantor Fitzgerald,300.0,245.0
+2021-07-02,Truist Securities,262.0,225.0
+2021-07-06,Barclays,250.0,227.0
+2021-08-04,Mizuho,279.0,250.0
+2021-08-04,Morgan Stanley,275.0,207.0
+2021-08-05,DZ Bank,288.0,0.0
+2021-08-05,Morgan Stanley,275.0,207.0
+2021-08-30,Cowen & Co.,300.0,250.0
+2021-09-29,Citigroup,265.0,210.0
+2021-10-11,Berenberg,270.0,240.0
+2021-11-19,BMO Capital,311.0,0.0
+2021-12-09,Wells Fargo,270.0,0.0
+2021-12-17,Goldman Sachs,236.0,0.0
+2021-12-20,Barclays,325.0,280.0
+2021-12-20,Berenberg,305.0,270.0
+2022-01-04,Wells Fargo,280.0,270.0
+2022-01-21,DZ Bank,291.0,0.0
+2022-01-24,Morgan Stanley,272.0,275.0
+2022-02-04,Mizuho,293.0,302.0
+2022-02-04,Morgan Stanley,265.0,272.0
+2022-04-06,Morgan Stanley,364.0,265.0
+2022-04-12,Goldman Sachs,264.0,234.0
+2022-04-29,Wells Fargo,305.0,280.0
+2022-04-29,Morgan Stanley,369.0,364.0
+2022-04-29,BMO Capital,358.0,330.0
+2022-05-02,Mizuho,356.0,315.0
+2022-05-23,SVB Leerink,341.0,0.0
+2022-06-01,JP Morgan,355.0,340.0
+2022-07-07,Barclays,355.0,333.0
+2022-07-08,Morgan Stanley,395.0,369.0
+2022-09-06,BMO Capital,396.0,369.0
+2022-09-07,Morgan Stanley,412.0,395.0
+2022-09-22,UBS,363.0,0.0
+2022-10-12,Morgan Stanley,408.0,412.0
+2022-11-02,Wells Fargo,365.0,305.0
+2022-11-02,Barclays,395.0,355.0
+2022-11-02,SVB Leerink,384.0,341.0
+2022-11-02,Morgan Stanley,441.0,408.0
+2022-11-08,Goldman Sachs,313.0,281.0
+2022-11-17,Morgan Stanley,436.0,441.0
+2022-11-18,Credit Suisse,395.0,0.0
+2022-11-22,Berenberg,375.0,345.0
+2022-12-05,Cowen & Co.,430.0,390.0
+2022-12-06,Credit Suisse,400.0,395.0
+2022-12-06,Morgan Stanley,446.0,436.0
+2022-12-07,Guggenheim,401.0,399.0
+2022-12-08,Wells Fargo,375.0,365.0
+2022-12-14,Morgan Stanley,440.0,446.0
+2022-12-15,UBS,420.0,428.0
+2022-12-16,SVB Leerink,410.0,384.0
+2023-01-03,Barclays,400.0,395.0
+2023-02-03,Morgan Stanley,455.0,440.0
+2023-02-03,Wells Fargo,360.0,375.0
+2023-02-16,Societe Generale,278.0,0.0
+2023-03-01,Morgan Stanley,444.0,455.0
+2023-03-03,Citigroup,360.0,370.0
+2023-03-06,Jefferies,290.0,0.0
+2023-03-13,Wells Fargo,375.0,360.0
+2023-04-03,Jefferies,310.0,290.0
+2023-04-10,Morgan Stanley,448.0,444.0
+2023-04-11,Guggenheim,392.0,395.0
+2023-04-14,Morgan Stanley,445.0,448.0
+2023-04-28,Wells Fargo,440.0,375.0
+2023-04-28,Credit Suisse,420.0,400.0
+2023-04-28,Morgan Stanley,478.0,445.0
+2023-04-28,Cantor Fitzgerald,485.0,432.0
+2023-04-28,JP Morgan,430.0,400.0
+2023-05-01,Barclays,420.0,400.0
+2023-05-01,SVB Securities,458.0,410.0
+2023-05-04,Credit Suisse,490.0,420.0
+2023-05-04,JP Morgan,475.0,430.0
+2023-05-04,BMO Capital,505.0,430.0
+2023-05-15,Morgan Stanley,507.0,478.0
+2023-05-22,Cantor Fitzgerald,485.0,485.0
+2023-05-23,TD Cowen,500.0,430.0
+2023-05-24,B of A Securities,500.0,450.0
+2023-05-26,Cantor Fitzgerald,485.0,0.0
+2023-05-26,Wells Fargo,500.0,440.0
+2023-06-20,Cantor Fitzgerald,485.0,0.0
+2023-06-27,Truist Securities,430.0,0.0
+2023-06-27,Cantor Fitzgerald,550.0,485.0
+2023-07-11,Morgan Stanley,551.0,507.0
+2023-07-13,Cantor Fitzgerald,550.0,0.0
+2023-07-14,HSBC,560.0,0.0
+2023-07-17,Cantor Fitzgerald,550.0,0.0
+2023-07-20,Truist Securities,525.0,430.0
+2023-07-21,Jefferies,430.0,408.0
+2023-07-21,Morgan Stanley,560.0,551.0
+2023-07-26,Citigroup,525.0,360.0
+2023-07-28,JP Morgan,510.0,475.0
+2023-08-08,Wells Fargo,615.0,500.0
+2023-08-09,Jefferies,615.0,0.0
+2023-08-09,RBC Capital,580.0,490.0
+2023-08-09,Morgan Stanley,617.0,560.0
+2023-08-09,Credit Suisse,580.0,490.0
+2023-08-09,Truist Securities,600.0,525.0
+2023-08-09,Goldman Sachs,470.0,385.0
+2023-08-09,Cantor Fitzgerald,550.0,0.0
+2023-08-09,BMO Capital,633.0,565.0
+2023-08-09,Barclays,590.0,500.0
+2023-08-09,JP Morgan,600.0,510.0
+2023-08-10,Goldman Sachs,470.0,385.0
+2023-08-22,Cantor Fitzgerald,630.0,0.0
+2023-09-05,Morgan Stanley,640.0,617.0
+2023-09-05,Argus Research,620.0,470.0
+2023-09-05,Cantor Fitzgerald,630.0,0.0
+2023-10-02,Cantor Fitzgerald,630.0,0.0
+2023-10-09,Wells Fargo,650.0,615.0
+2023-10-09,Cantor Fitzgerald,630.0,0.0
+2023-10-11,Morgan Stanley,673.0,640.0
+2023-10-23,Citigroup,675.0,525.0
+2023-10-23,Cantor Fitzgerald,630.0,0.0
+2023-11-03,Morgan Stanley,722.0,673.0
+2023-11-09,Deutsche Bank,535.0,0.0
+2023-11-15,Cantor Fitzgerald,630.0,0.0
+2023-11-17,Cantor Fitzgerald,630.0,0.0
+2023-11-20,Cantor Fitzgerald,630.0,0.0
+2023-11-29,Truist Securities,650.0,0.0
+2023-12-21,Daiwa Capital,610.0,0.0
+2024-01-23,Cantor Fitzgerald,630.0,0.0
+2024-01-23,Barclays,680.0,630.0
+2024-01-24,Wells Fargo,700.0,650.0
+2024-02-01,Cantor Fitzgerald,630.0,0.0
+2024-02-05,Cantor Fitzgerald,630.0,0.0
+2024-02-06,Cantor Fitzgerald,815.0,630.0
+2024-02-06,Wells Fargo,825.0,700.0
+2024-02-07,BMO Capital,865.0,710.0
+2024-02-07,Wells Fargo,825.0,700.0
+2024-02-07,Barclays,810.0,680.0
+2024-02-07,Truist Securities,850.0,650.0
+2024-02-07,Morgan Stanley,805.0,763.0
+2024-02-14,Cantor Fitzgerald,815.0,0.0
+2024-02-16,Morgan Stanley,950.0,805.0
+2024-02-20,Cantor Fitzgerald,815.0,0.0
+2024-02-21,DZ Bank,820.0,0.0
+2024-03-01,B of A Securities,1000.0,800.0
+2024-03-15,JP Morgan,850.0,775.0
+2024-03-22,Truist Securities,850.0,0.0
+2024-04-01,Cantor Fitzgerald,815.0,815.0
+2024-04-02,Citigroup,895.0,675.0
+2024-04-05,Cantor Fitzgerald,815.0,815.0
+2024-04-11,Goldman Sachs,723.0,650.0
+2024-04-15,Cantor Fitzgerald,815.0,815.0
+2024-04-18,Cantor Fitzgerald,815.0,815.0
+2024-04-30,Cantor Fitzgerald,885.0,815.0
+2024-05-01,Truist Securities,892.0,850.0
+2024-05-01,Cantor Fitzgerald,885.0,815.0
+2024-05-01,JP Morgan,900.0,850.0
+2024-05-01,BMO Capital,1001.0,900.0
+2024-05-14,Argus Research,840.0,770.0
+2024-06-07,Jefferies,957.0,925.0
+2024-06-11,Cantor Fitzgerald,885.0,885.0
+2024-06-12,Cantor Fitzgerald,885.0,885.0
+2024-06-17,Cantor Fitzgerald,885.0,885.0
+2024-06-20,Cantor Fitzgerald,885.0,885.0
+2024-06-24,Jefferies,1015.0,994.0
+2024-06-24,Cantor Fitzgerald,885.0,885.0
+2024-06-24,B of A Securities,1000.0,1000.0
+2024-06-25,Cantor Fitzgerald,885.0,885.0
+2024-06-25,Truist Securities,1000.0,892.0
+2024-06-26,Cantor Fitzgerald,885.0,885.0
+2024-07-01,Cantor Fitzgerald,885.0,885.0
+2024-07-03,BMO Capital,1001.0,1001.0
+2024-07-05,Morgan Stanley,1023.0,1023.0
+2024-07-10,Barclays,1025.0,913.0
+2024-07-11,JP Morgan,1000.0,900.0
+2024-07-11,Berenberg,1000.0,850.0
+2024-07-15,Cantor Fitzgerald,885.0,885.0
+2024-07-24,Cantor Fitzgerald,885.0,885.0
+2024-08-05,Guggenheim,884.0,855.0
+2024-08-05,Cantor Fitzgerald,885.0,885.0
+2024-08-09,B of A Securities,1125.0,1000.0
+2024-08-09,BMO Capital,1101.0,1001.0
+2024-08-09,Wells Fargo,1000.0,875.0
+2024-08-12,Deutsche Bank,1025.0,725.0
+2024-08-14,Berenberg,1050.0,1000.0
+2024-08-16,Guggenheim,1030.0,884.0
+2024-08-19,Cantor Fitzgerald,885.0,885.0
+2024-08-27,Morgan Stanley,1106.0,1106.0
+2024-09-09,Cantor Fitzgerald,885.0,885.0
+2024-09-13,JP Morgan,1100.0,1050.0
+2024-09-16,Cantor Fitzgerald,885.0,885.0
+2024-10-03,Deutsche Bank,1025.0,1025.0
+2024-10-10,Truist Securities,1033.0,1000.0
+2024-10-17,Bernstein,1100.0,0.0
+2024-10-25,Citigroup,1250.0,1060.0
+2024-10-31,B of A Securities,1100.0,1150.0
+2024-10-31,Barclays,975.0,1025.0
+2024-11-04,Deutsche Bank,1015.0,1025.0
+2024-11-15,Wolfe Research,1000.0,0.0
+2025-01-28,Citigroup,1190.0,1250.0
+2025-01-28,Wells Fargo,970.0,1000.0
+2025-02-03,Truist Securities,1038.0,1029.0
+2025-03-05,Wells Fargo,1100.0,970.0
+2025-04-08,Goldman Sachs,888.0,892.0
+2025-04-09,Morgan Stanley,1124.0,1146.0
+2025-04-14,Guggenheim,928.0,973.0
+2025-04-22,Cantor Fitzgerald,975.0,0.0
+2025-04-28,HSBC,700.0,1150.0
+2025-05-02,UBS,1050.0,1100.0
+2025-06-20,Guggenheim,936.0,936.0
+2025-07-10,Morgan Stanley,1135.0,1133.0
+2025-07-11,Guggenheim,942.0,936.0
+2025-08-08,JP Morgan,1100.0,1100.0
+2025-08-08,UBS,895.0,1050.0
+2025-08-11,Deutsche Bank,900.0,1010.0
+2025-08-13,Cantor Fitzgerald,825.0,975.0
+2025-08-13,Guggenheim,875.0,942.0
+2025-08-27,HSBC,700.0,675.0
+2025-09-16,JP Morgan,1050.0,1100.0
+2025-09-17,Berenberg,830.0,970.0
+2025-10-03,Morgan Stanley,1023.0,1028.0
+2025-10-08,Guggenheim,948.0,875.0
+2025-10-16,Guggenheim,948.0,948.0
+2025-10-31,Cantor Fitzgerald,985.0,925.0
+2025-11-06,BMO Capital,1100.0,930.0
+2025-11-07,UBS,1080.0,895.0
+2025-11-10,Leerink Partners,1104.0,886.0
+2025-11-10,Freedom Broker,950.0,750.0
+2025-11-12,Citigroup,1500.0,1250.0
+2025-11-13,Morgan Stanley,1171.0,1090.0
+2025-11-18,JP Morgan,1150.0,1050.0
+2025-11-19,Truist Securities,1182.0,1038.0
+2025-11-24,Bernstein,1300.0,1100.0
+2025-11-24,Morgan Stanley,1290.0,1171.0
+2025-12-03,Guggenheim,1163.0,1036.0
+2025-12-04,BMO Capital,1200.0,1100.0
+2025-12-10,Wells Fargo,1200.0,1100.0
+2025-12-15,B of A Securities,1268.0,1286.0
+2026-01-20,Guggenheim,1161.0,1163.0
+2026-02-02,Freedom Broker,1050.0,950.0
+2026-02-05,JP Morgan,1300.0,1150.0
+2026-02-05,Cantor Fitzgerald,1205.0,985.0
+2026-02-05,Morgan Stanley,1313.0,1290.0
+2026-02-05,Wells Fargo,1280.0,1200.0
+2026-02-09,Deutsche Bank,1285.0,1200.0
+2026-02-10,Freedom Broker,1200.0,1050.0
+2026-02-20,Barclays,1350.0,0.0
+2026-02-25,RBC Capital,1250.0,0.0
+2026-03-17,HSBC,850.0,1070.0
+2026-03-30,Guggenheim,1163.0,1168.0
+2026-04-02,B of A Securities,1294.0,1293.0
+2026-04-10,Morgan Stanley,1327.0,1313.0
+2026-04-22,Guggenheim,1183.0,1163.0
+2026-05-01,Cantor Fitzgerald,1230.0,1205.0
+2026-05-04,Wolfe Research,1325.0,1325.0
+2026-05-05,Guggenheim,1183.0,1183.0
+2026-05-05,Barclays,1400.0,1350.0
+2026-05-26,B of A Securities,1251.0,1133.0
+2026-06-09,Jefferies,1350.0,1330.0
+2026-06-25,Leerink Partners,1232.0,1119.0
+2026-07-06,Cantor Fitzgerald,1350.0,1230.0
+2026-07-07,JP Morgan,1400.0,1300.0
+2026-07-08,Morgan Stanley,1347.0,1344.0
+2026-07-08,Truist Securities,1370.0,1281.0
+2026-07-08,RBC Capital,1500.0,1250.0
+2026-07-10,B of A Securities,1334.0,1251.0
+2026-07-13,Guggenheim,1273.0,1235.0
+2026-07-13,UBS,1425.0,1250.0
+2026-07-14,Bernstein,1385.0,1300.0
+2026-07-15,Citigroup,1600.0,1500.0
