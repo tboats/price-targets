@@ -283,10 +283,10 @@
     <main class="container">
         <!-- Summary Cards -->
         <section class="grid-3">
-            <div class="card">
-                <h3>📊 Moderately Poor Accuracy</h3>
-                <p>Analyst forecast error (MAPE) averages 28% across S&P 500 leaders. Price targets act as broad expected ranges rather than precise point estimates.</p>
-                <div class="stat">~28.0% Avg MAPE</div>
+            <div class="card" style="border-color: var(--accent-red);">
+                <h3 style="color: var(--accent-red);">📉 Near-Zero Predictive Power</h3>
+                <p>Expected return forecasts explain virtually no variance in realized returns (R² = 0.002 pooled across all stocks; R² &le; 0.035 for every individual stock).</p>
+                <div class="stat" style="color: var(--accent-red);">R² = 0.002 (Pooled)</div>
             </div>
             <div class="card">
                 <h3>🚀 Underestimation (Pessimism) Bias</h3>
@@ -294,9 +294,9 @@
                 <div class="stat">60% - 84% Hit Rates</div>
             </div>
             <div class="card">
-                <h3>📉 Near-Zero Predictive Power</h3>
-                <p>Expected return forecasts explain virtually no variance in realized returns (R² = 0.002 pooled across all stocks; R² &le; 0.035 for every individual stock).</p>
-                <div class="stat">R² = 0.002 (Pooled)</div>
+                <h3>📊 Moderately Poor Accuracy</h3>
+                <p>Analyst forecast error (MAPE) averages 28% across S&P 500 leaders. Price targets act as broad expected ranges rather than precise point estimates.</p>
+                <div class="stat">~28.0% Avg MAPE</div>
             </div>
         </section>
 
@@ -499,18 +499,18 @@
             <h2>Executive Conclusions & Findings</h2>
             
             <div class="conclusion-item">
-                <h3>1. Inability to Predict Exponential Growth</h3>
-                <p>For high-performing mega-caps (NVDA, AAPL, META, AVGO, LLY), analysts systematically underestimated the magnitude of expansion, resulting in high hit rates (60-84%) but negative MFEs. This suggests Wall Street models fail to capture the exponential tailwinds of AI and tech consolidation.</p>
+                <h3 style="color: #f43f5e;">1. Primary Finding: Near-Zero Predictive Power (R² = 0.2% Pooled; R² &le; 3.5% Individual)</h3>
+                <p>Because correlation and regression metrics are extremely weak (pooled R² = 0.002 or 0.2% across all stocks combined; individual company R² &le; 3.5%), investors should not rely on target-implied returns (expected % returns) to select or rank stocks. A stock with a 50% target return is no more likely to outperform a stock with a 10% target return.</p>
             </div>
 
             <div class="conclusion-item">
-                <h3>2. No Signal in Target Spreads (R² = 0.2% Pooled; R² &le; 3.5% Individual)</h3>
-                <p>Because correlation and regression metrics are extremely weak (pooled R² = 0.002 or 0.2% across all stocks; individual company R² &le; 3.5%), investors should not rely on target-implied returns (expected % returns) to rank stocks. A stock with a 50% target return is no more likely to outperform a stock with a 10% target return.</p>
+                <h3>2. Targets Function as Lagging Momentum Indicators</h3>
+                <p>Consensus target price changes represent a smoothed, lagging representation of recent stock momentum. Analysts adjust target prices primarily to stay aligned with current market prices rather than offering independent leading signals.</p>
             </div>
 
             <div class="conclusion-item">
-                <h3>3. Targets as Lagging Indicators</h3>
-                <p>Consensus target price changes represent a smoothed, lagging representation of recent stock momentum. Analysts adjust target prices primarily to stay aligned with the current market price rather than to offer independent leading signals.</p>
+                <h3>3. Systematic Underestimation of Exponential Winners</h3>
+                <p>For high-performing mega-caps (NVDA, AAPL, META, AVGO, LLY), analysts systematically underestimated the magnitude of expansion, resulting in high hit rates (60-84%) but negative MFEs. Wall Street fundamental models fail to capture the exponential compounding of market leaders.</p>
             </div>
         </section>
     </main>
